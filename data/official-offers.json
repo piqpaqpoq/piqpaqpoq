@@ -1,10 +1,130 @@
 {
   "items": [],
-  "sources": [
+  "candidates": [
     {
-      "name": "공식 행사",
-      "status": "기존 Sites 서버 저장소 미연결 · GitHub Pages에서 실시간 수집 불가"
+      "title": "배스킨라빈스, ‘호빵맨 무선 이어폰 케이스’ 사전예약 - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OYVR1VEwxNU1HRlY1Z1VCc3loSzFfQXUtVUtFQmFBMzdkRTByQmZwMmZnNnFIcEdKVDk3N0kwWUtyLXYtSG5yZU82S2xDeXk3QWwxbkhzemEzWUVUOE1FX3NBaTRyTnhTVUpN?oc=5",
+      "source": "BBS불교방송",
+      "publishedAt": "2026-11-16",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "스타벅스, ‘헬로키티’ 손잡고 2차 크리스마스 프로모션 전개 …시즌 음료·굿즈 대거 출시 - 더글로벌기빙뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQbzlEeDRQVWlHRFFZZVNjNjFPUHBsajFhdkd5UEFHWDZIbTBOZ0hHSUkzcmp4S0dVWUNlbl9PNzZEXzR3eUJTSkRKbUpQTktBaDBYLQ?oc=5",
+      "source": "더글로벌기빙뉴스",
+      "publishedAt": "2026-11-16",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "CU '생초코모찌' 매출 116.9% 급증…19일 수능 전 선물·할인 - https://www.diarypoint.com/",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0cElldVFzQUVLdV9FZk50dTRYZWdTOGZmY2xnOVE5ZjFQcUNzV3lnZWdJcDJHMHRBbGJOZEVqdWVCZU9jdGE3OER0VDhRblc5Vk9tX1BCQWxsOUdNbTdFc3VHbDZVZDRtYlRV?oc=5",
+      "source": "https://www.diarypoint.com/",
+      "publishedAt": "2026-11-15",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "스타벅스, 크리스마스 홀케이크 사전예약…내달 11일까지 - m.thepowernews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqR2swRlB5NEdTd25XOGZrdy1Lc0JIdy1adDdReVF0OTVMTHhDZ2VfTjROWEJtS1RFOTJxcF9wbTdhMXhMYndGNTBmcVlBMjlxZWdMcGFYNUVJQWhyZFRpR0x3Ul9jQnQ0dW5uVkRNS1hiYVpBaGJ6MkdZbXVOQQ?oc=5",
+      "source": "m.thepowernews.co.kr",
+      "publishedAt": "2026-11-15",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "배민에서만 만나는 던킨 두바이 도넛팩…쿠폰 적용하면 1만2100원 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hejNTTFpyaVYzYXFWczBDeVRIVTFWdU5jUUNQNndLbk5nckl4dl9lTF81Tk5MblRfU1VoOWRtam1FUTQtQm5DVnN2ODJ4UUtNejh6eEhVNGdQbmtnbEtwbkhOTlNtM3ZwMklKVGo2elE?oc=5",
+      "source": "신아일보",
+      "publishedAt": "2026-11-15",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "파리바게뜨, 'PLAY 윈터팝' 홀리데이 케이크 광고 공개…사전예약 최대 30% 할인 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83Sm9PYzJnSG9lbUNOMzJlVmY5ZGgzS3diNDlmQTVhUkx2RWtWdDNxekVUbGhSSnRLYTduN2lxZ3otZkpNZDVEdk9Na3F0TTZRSFJFQ1FlVEFDZ2FIbEIxOGxwTzBjOWR4SWZOUm13M2pwMTBUYmhZ0gF3QVVfeXFMTzdKb09jMmdIb2VtQ04zMmVWZjlkaDNLd2I0OWZBNWFSTHZFa1Z0M3F6RVRsaFJKdEthN243aXFnei1mSk1kNUR2T01rcXRNNlFIUkVDUWVUQUNnYUhsQjE4bHBPMGM5ZHhJZk5SbXczanAxMFRiaFk?oc=5",
+      "source": "핀포인트뉴스",
+      "publishedAt": "2026-11-13",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "설빙, 포켓몬 라이트 피규어 6종 출시... 네이버페이 결제 시 50% 포인트 적립 - 금강일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XOVJOdTJMSEtFYmdfZy1GYkx5SEpzWHNPNUhlQjFFeF9WdXNROVZnbW15STh1UE9NakZNbElpV1hPVUUtMFNSTTZ1c1lEdm9tUVBZVU9jWmw3eDZ1dXZyRVVxUVBzV2p0?oc=5",
+      "source": "금강일보",
+      "publishedAt": "2026-11-13",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "배스킨라빈스, 크리스마스 아이스크림 케이크 10종 사전예약 돌입 - 스페셜타임스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95VlYwN1NBWEptRGUxTGd2WHU5VFpzXzExc3FBb2MzbE5oS00yRFBVTGljV0JlMzJiaFBqN3pOU2xacjk3U0haNEtZMmdBV0pwek8zQmpSR0JMd3IzbDA0TW9mbGZ6cjBPRmZkc3V1Y0dnVjA?oc=5",
+      "source": "스페셜타임스",
+      "publishedAt": "2026-11-12",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "파리바게뜨-네이버플러스, 전국 매장서 최대 10% 상시 혜택 제공 - 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQcmxGVDNLTU5ONG80a2VBaWQwVmVQSDlLRWlmR3U0dnRfbnNxN0VXNTN3Vi1wUWcyMjgzSFFzV1RvWFREbThpTUhDU2RVMGQzcFFuUzRYVlJBekJkc0NkR01WNjd6bjdQU2ZNemtB?oc=5",
+      "source": "국제뉴스",
+      "publishedAt": "2026-11-12",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "파리바게뜨 \"네이버플러스 멤버십과 2027년까지 제휴 혜택\" - 잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EQ3piZnhRNWQ0REozQ29DQzB0WFZKMTZ5cTdwUl90SXZfSXp3Snlmb3ZnbHdhZ0duRlQtOHdiOWl3Qkx3MUUzSDQ5N29rMmIzQ0I5U2FGeVNCZS1BQnl0N0RfRkxKU1NpbkR1WUhoQVBqZ9IBckFVX3lxTE9EQ3piZnhRNWQ0REozQ29DQzB0WFZKMTZ5cTdwUl90SXZfSXp3Snlmb3ZnbHdhZ0duRlQtOHdiOWl3Qkx3MUUzSDQ5N29rMmIzQ0I5U2FGeVNCZS1BQnl0N0RfRkxKU1NpbkR1WUhoQVBqZw?oc=5",
+      "source": "잡포스트",
+      "publishedAt": "2026-11-12",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "파리바게뜨, 네이버페이 결제 혜택 확대…\"전국 매장 상시 할인\" | - 뉴스드림",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YU2tMajZhcndjZGxTZVlycEM4a3c4NjFNY0ZwR05uVTJuNTByX3lpWHE2VE1iVTNKVy1xRU9PYWVZb2RkWWZqajlaUXZLVUJFdVI0b1ZYX3VZMGYyLXBRN0lFX0RhRUNhTkZaNG13?oc=5",
+      "source": "뉴스드림",
+      "publishedAt": "2026-11-12",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "뚜레쥬르, 이도현과 함께한 홀리데이 캠페인 영상 공개…케이크 사전예약도 – CJ 뉴스룸 - CJ 뉴스룸",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPS3NvYndNZ2tHaGJPc2o5SUtJd2VhQ1VzYVZKZ3hIU2tkVllORjR0cWdNa1ZPOG1aS2F5WTd4TEg2QjlnTUU1bEI5QXhZTFJvT051aXllRHJNODZEQVZNU3hWdHRuSHVDdEphczgtbEVtZ2l0VU9wdFJKSGlHMnlsbjFGSUhMWUFiMDBNTy0xQWE5dXh0ZFpneWpjQVdxaVZpLWNPRHkwZkdmU3pIZnozOGNqOE5sUUxlM2RzMEc5REFlSjZHR2tJR05nWDF5UWl4ZmJ5dnZmNzBkeGVOXy02aUI2VEZjMktXOW4tSnJLblVpUEowZUZ5QXh5NDhiNjYzX2JORDRPUFY0dVpyNU80SUZMRm1hTGNXYnZGYVRNYjlCV1Bqa0ZxR0pIeHI3NzQ1WkZMVVJETU1DbXRGdWhF?oc=5",
+      "source": "CJ 뉴스룸",
+      "publishedAt": "2026-11-11",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "배스킨라빈스 블록팩 4개 12,000원, 할인 교환권은 제외예요 | is보험 토크 - 이즈보험",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0c0dkVzNmSkhBZ1JXYUR2SEFnN0w5bUVIaVhiVGdKblcxV3BCekF5TGU4QkNVWFBLNDUxbVpvWG93TXdUZG1RbUtnM2tHX0tHUi1rWkdnbGx3VFdieF9rbTRn?oc=5",
+      "source": "이즈보험",
+      "publishedAt": "2026-11-11",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "파리바게뜨 '수능 맞이 40% 할인'… 행사 품목·기간은? - 금강일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kT0RUOUZXLXZfdkI4cDllUzNXY2pZQjVlcXNEbHkzVDg2a3JTVU9DaGpURkRjWnhNM0ZpOVNHbmcwaTdTZDYydU1vejhvb0VJLXBXcFhOczdYd1RXTGRsRG5iX1JYT2tGMmc?oc=5",
+      "source": "금강일보",
+      "publishedAt": "2026-11-11",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "“연말 케이크 미리 잡는다” 뚜레쥬르, 35종 최대 30% 할인 - 뉴스퀘스트",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tUkZJMVFWeWVGVUl3UDVhbWt4aGk2NGVyWjFDZFlCaDBCSUxwRHhvOG5OM0d6Q1d6UHVIUTI1UVp0dE5Sek5jcTBCa3ZpWGZmWWpGOEZBa0VhNlJFNDU5MEdWcDV3VzA1aFVQbnIwOA?oc=5",
+      "source": "뉴스퀘스트",
+      "publishedAt": "2026-11-11",
+      "status": "언론 보도 · 공식 확인 대기"
+    },
+    {
+      "title": "파리바게뜨, 크리스마스 케이크 사전예약···‘베리밤’ 6종으로 확대 - 스마트비즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54SWZCdUkxeG5EQ19uVGVzUjNOZl9scDFXbnFuZHpBd05Bc2ZmY3kxRWd3bTlRWk9heUFNV3JGNW5kWGZnZ2UzT01pcElmaHZmM0NVT0NoVW5HenhlNWloNEFpR1NPQUZsVFdRRg?oc=5",
+      "source": "스마트비즈",
+      "publishedAt": "2026-11-10",
+      "status": "언론 보도 · 공식 확인 대기"
     }
   ],
-  "checkedAt": null
+  "checkedAt": "2026-11-17T14:28:27+09:00",
+  "sources": [
+    {
+      "name": "운영자 검토한 공식 행사",
+      "status": "승인 0건 · 제외 0건"
+    },
+    {
+      "name": "RSS 언론 보도",
+      "status": "공식 확인 대기 16건"
+    }
+  ],
+  "rejected": [],
+  "rules": "공식 원문·조건·기간·가격·최근 14일 내 운영자 확인을 충족한 경우만 공식 행사에 표시. 뉴스는 별도 검증 대기 목록."
 }
