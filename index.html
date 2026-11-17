@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0056a8">
+  <meta name="description" content="픽팩폭 — 신상과 생활 소식을 한곳에 모아 보는 발견형 큐레이션">
+  <title>픽팩폭 | 고르고, 담고, 폭!</title>
+  <link rel="icon" href="assets/characters/piqi.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="assets/js/app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">본문으로 이동</a>
+  <header class="header">
+    <div class="header-inner wrap">
+      <a class="brand" href="./" aria-label="픽팩폭 홈"><span class="brand-mark">P<span>!</span>Q</span><span class="brand-copy"><strong>픽팩폭</strong><small>고르고, 담고, 폭!</small></span></a>
+      <nav class="nav" aria-label="주요 메뉴"><button class="nav-link active" data-nav="all">전체 발견</button><button class="nav-link" data-nav="food">먹거리</button><button class="nav-link" data-nav="beauty">뷰티·패션</button><button class="nav-link" data-nav="life">생활·여행</button><button class="nav-link" data-nav="saved">보관함 <span id="saved-count">0</span></button></nav>
+    </div>
+  </header>
+  <main id="main" class="wrap">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy"><div class="eyebrow">TODAY'S PICKS <span class="dot"></span> PIQ PAQ POQ</div><h1 id="hero-title">발견은 가볍게,<br><em>선택은 똑똑하게.</em></h1><p>편의점부터 카페, 뷰티, 생활까지. 흩어진 새 소식을 한눈에 모았습니다.</p><div class="hero-meta"><span id="update-label">수집 결과를 확인하는 중</span><span id="total-label">0개의 발견</span></div></div>
+      <div class="mascots" aria-hidden="true"><img src="assets/characters/piqi.svg" alt=""><img src="assets/characters/paqi.svg" alt=""><img src="assets/characters/poqi.svg" alt=""></div>
+    </section>
+    <section class="toolbar" aria-label="검색 및 정렬"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="브랜드, 상품, 키워드 검색" autocomplete="off"><span class="sr-only">검색</span></label><label class="sort-label">정렬 <select id="sort"><option value="new">최신순</option><option value="old">오래된순</option><option value="title">제목순</option></select></label></section>
+    <div id="notice" class="notice" role="status" hidden></div>
+    <section class="highlights" id="highlights" aria-label="주요 카테고리"><div class="section-top"><div><span class="section-tag">QUICK DISCOVERY</span><h2>오늘의 발견</h2></div><span class="hint">제목을 누르면 원문으로 이동합니다</span></div><div class="highlights-grid"><button class="highlight h-food" data-filter="food"><span>01 / FOOD</span><strong>이번 주<br>먹거리 소식</strong><span class="highlight-foot">카페 · 편의점 · 디저트 <b>↗</b></span></button><button class="highlight h-beauty" data-filter="beauty"><span>02 / STYLE</span><strong>새롭게 뜬<br>뷰티·패션</strong><span class="highlight-foot">뷰티 · 패션 · 쇼핑 <b>↗</b></span></button><button class="highlight h-life" data-filter="life"><span>03 / LIFE</span><strong>놓치기 아까운<br>생활·여행</strong><span class="highlight-foot">생활 · 여행 · 혜택 <b>↗</b></span></button></div></section>
+    <section class="feed" aria-labelledby="feed-title"><div class="section-top"><div><span class="section-tag">FRESH FEED</span><h2 id="feed-title">새 소식 모아보기 <span id="count" class="count">0</span></h2></div><span class="hint" id="filter-name">전체 카테고리</span></div><div id="cards" class="cards"></div><div id="empty" class="empty" hidden><div class="empty-icon">⌕</div><h3>아직 표시할 소식이 없어요</h3><p>수집을 실행하거나 검색어·카테고리를 바꿔 보세요.</p><button id="reset" class="primary">전체 소식 보기</button></div><div class="more-wrap"><button id="more" class="more" hidden>더 보기 <span aria-hidden="true">↓</span></button></div></section>
+    <section class="tools" aria-labelledby="tools-title"><div><span class="section-tag">LITTLE HELPERS</span><h2 id="tools-title">행사 계산기</h2><p>1+1 / 2+1 행사에서 실제 필요한 수량을 계산해 보세요. 가격과 행사 여부는 매장에서 직접 확인해야 합니다.</p></div><div class="calc"><label>행사 유형 <select id="deal"><option value="1">1+1</option><option value="2">2+1</option></select></label><label>필요 수량 <input id="quantity" type="number" min="1" max="9999" value="4"></label><label>상품 1개 가격(원) <input id="price" type="number" min="0" max="99999999" value="2000"></label><output id="calc-result" aria-live="polite"></output></div></section>
+  </main>
+  <footer class="footer"><div class="wrap footer-inner"><div><strong>PIQ PAQ POQ · 픽팩폭</strong><p>고르고, 담고, 폭!</p></div><p>외부 기사·발표의 제목과 원문 링크를 소개합니다. 게시일·판매 기간·가격·재고는 원문에서 다시 확인하세요. 출처 표시는 이용 허락을 의미하지 않습니다.</p></div></footer>
+</body>
+</html>
