@@ -1,0 +1,45 @@
+name: RSS 수집 · 수동 실행
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check: 테스트만 / collect: RSS 수집 후 저장"
+        required: true
+        default: check
+        type: choice
+        options:
+          - check
+          - collect
+permissions:
+  contents: read
+concurrency:
+  group: piqpaqpoq-rss
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: RSS 필터·중복·날짜 규칙 검증
+        run: python3 -m unittest discover -s automation -p 'test_*.py' -v
+  collect:
+    if: inputs.mode == 'collect' && github.ref == 'refs/heads/main'
+    needs: check
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: 최근 7일 RSS 기사 메타데이터 수집
+        run: python3 automation/collect_rss.py
+      - name: 비공개 저장소에 수집 결과 저장
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- data/rss-news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh RSS news metadata"
+            git push origin HEAD:main
+          fi

@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.dev.vars
+*.pem
+*.key
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+stats/
+private-data/
