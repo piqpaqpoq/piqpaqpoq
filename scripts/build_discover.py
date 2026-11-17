@@ -4,7 +4,14 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-raw = json.loads((ROOT / 'data' / 'rss-news.json').read_text(encoding='utf-8'))
+rss_path = ROOT / 'data' / 'rss-news.json'
+if not rss_path.exists():
+    backup = ROOT / 'data' / 'discover.json'
+    if backup.exists():
+        print('RSS 원본이 없어 기존 discover.json을 유지합니다.')
+        raise SystemExit(0)
+    raise SystemExit('data/rss-news.json과 data/discover.json 모두 없습니다.')
+raw = json.loads(rss_path.read_text(encoding='utf-8'))
 items = []
 for item in raw.get('items', []):
     categories = item.get('categories') or []
@@ -22,6 +29,8 @@ for item in raw.get('items', []):
         'topic': topics[0] if topics else '신제품·신메뉴',
         'topics': topics,
         'linkType': item.get('linkType', '원문 링크'),
+        'image': item.get('image') or item.get('thumbnail') or '',
+        'originalUrl': item.get('originalUrl') or '',
         'launchDate': None,
     })
 items.sort(key=lambda x: x['date'], reverse=True)
