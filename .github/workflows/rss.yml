@@ -23,6 +23,10 @@ jobs:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - name: RSS 필터·중복·날짜 규칙 검증
         run: python3 -m unittest discover -s automation -p 'test_*.py' -v
+      - name: 사이트 빌드와 Worker 검증
+        run: |
+          npm run build
+          npm run validate
   collect:
     if: inputs.mode == 'collect' && github.ref == 'refs/heads/main'
     needs: check
@@ -43,3 +47,4 @@ jobs:
             git commit -m "data: refresh RSS news metadata"
             git push origin HEAD:main
           fi
+
