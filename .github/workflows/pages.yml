@@ -1,0 +1,52 @@
+name: PIQPAQPOQ Website Deploy
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - PIQPAQPOQ RSS Collector
+    types:
+      - completed
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: piqpaqpoq-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main')
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout latest site and RSS data
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Verify website files and prepare public directory
+        run: |
+          test -f index.html
+          test -f assets/js/app.js
+          test -f data/rss-news.json
+          mkdir -p public/assets public/data
+          cp index.html public/index.html
+          cp -R assets/. public/assets/
+          cp data/rss-news.json public/data/rss-news.json
+          python -m json.tool public/data/rss-news.json > /dev/null
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
