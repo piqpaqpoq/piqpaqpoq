@@ -11,10 +11,10 @@ on:
         options:
           - check
           - collect
-  # 무료 사용량 및 과금 차단 설정을 확인한 뒤 아래 주석을 해제하세요.
-  # 한국시간 매일 07:00 / 13:00 / 19:00 = UTC 22:00 / 04:00 / 10:00
-  # schedule:
-  #   - cron: '0 22,4,10 * * *'
+  # 매일 한국시간 07:00 / 13:00 / 19:00 (UTC 22:00 / 04:00 / 10:00)
+  # GitHub Actions 예약 작업은 서버 사정에 따라 몇 분 이상 지연될 수 있습니다.
+  schedule:
+    - cron: '0 4,10,22 * * *'
 
 permissions:
   contents: write
@@ -55,4 +55,3 @@ jobs:
             git commit -m 'data: update RSS headlines'
             git push
           fi
-
