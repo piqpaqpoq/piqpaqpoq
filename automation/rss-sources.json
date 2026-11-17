@@ -1,0 +1,21 @@
+{
+  "days": 7,
+  "max_items": 350,
+  "feeds": [
+    {"id":"foodbank","name":"식품외식경제","category":"food","url":"https://www.foodbank.co.kr/rss/allArticle.xml"},
+    {"id":"thinkfood","name":"식품음료신문","category":"food","url":"https://www.thinkfood.co.kr/rss/allArticle.xml"},
+    {"id":"coffee-new","name":"카페 신제품 뉴스 검색","category":"food","url":"https://news.google.com/rss/search?q=%EC%B9%B4%ED%8E%98+%EC%8B%A0%EB%A9%94%EB%89%B4+when%3A7d&hl=ko&gl=KR&ceid=KR%3Ako"},
+    {"id":"convenience-new","name":"편의점 신상품 뉴스 검색","category":"food","url":"https://news.google.com/rss/search?q=%ED%8E%B8%EC%9D%98%EC%A0%90+%EC%8B%A0%EC%83%81+when%3A7d&hl=ko&gl=KR&ceid=KR%3Ako"},
+    {"id":"dessert-new","name":"디저트 출시 뉴스 검색","category":"food","url":"https://news.google.com/rss/search?q=%EB%94%94%EC%A0%80%ED%8A%B8+%EC%B6%9C%EC%8B%9C+when%3A7d&hl=ko&gl=KR&ceid=KR%3Ako"},
+    {"id":"jangup","name":"장업신문","category":"beauty","url":"https://www.jangup.com/rss/allArticle.xml"},
+    {"id":"ktnews","name":"한국섬유신문","category":"beauty","url":"https://www.ktnews.com/rss/allArticle.xml"},
+    {"id":"beauty-new","name":"뷰티 신제품 뉴스 검색","category":"beauty","url":"https://news.google.com/rss/search?q=%EB%B7%B0%ED%8B%B0+%EC%8B%A0%EC%A0%9C%ED%92%88+when%3A7d&hl=ko&gl=KR&ceid=KR%3Ako"},
+    {"id":"fashion-new","name":"패션 신상 뉴스 검색","category":"beauty","url":"https://news.google.com/rss/search?q=%ED%8C%A8%EC%85%98+%EC%8B%A0%EC%83%81+when%3A7d&hl=ko&gl=KR&ceid=KR%3Ako"},
+    {"id":"oliveyoung","name":"올리브영 뉴스 검색","category":"beauty","url":"https://news.google.com/rss/search?q=%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81+%ED%96%89%EC%82%AC+when%3A7d&hl=ko&gl=KR&ceid=KR%3Ako"},
+    {"id":"travel-times","name":"여행신문","category":"life","url":"https://www.traveltimes.co.kr/rss/allArticle.xml"},
+    {"id":"travel-daily","name":"트래블데일리","category":"life","url":"https://www.traveldaily.co.kr/rss/allArticle.xml"},
+    {"id":"travel-sale","name":"여행 할인 뉴스 검색","category":"life","url":"https://news.google.com/rss/search?q=%EC%97%AC%ED%96%89+%ED%95%A0%EC%9D%B8+when%3A7d&hl=ko&gl=KR&ceid=KR%3Ako"},
+    {"id":"living-new","name":"생활용품 신제품 뉴스 검색","category":"life","url":"https://news.google.com/rss/search?q=%EC%83%9D%ED%99%9C%EC%9A%A9%ED%92%88+%EC%8B%A0%EC%A0%9C%ED%92%88+when%3A7d&hl=ko&gl=KR&ceid=KR%3Ako"},
+    {"id":"discount-new","name":"생활 혜택 뉴스 검색","category":"life","url":"https://news.google.com/rss/search?q=%EC%83%9D%ED%99%9C+%ED%98%9C%ED%83%9D+%EC%A7%80%EC%9B%90+when%3A7d&hl=ko&gl=KR&ceid=KR%3Ako"}
+  ]
+}
