@@ -1,7 +1,47 @@
 {
-  "checkedAt": "2026-11-17T03:40:15.940992+00:00",
+  "checkedAt": "2026-11-17T04:44:26.624822+00:00",
   "days": 7,
   "items": [
+    {
+      "id": "fd5b2ad6f6f01e0cbe5a",
+      "title": "‘K-푸드’ 카자흐스탄 넘어 중앙아시아로 진격",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201667",
+      "source": "식품음료신문",
+      "publishedAt": "2026-11-17T10:25:58+00:00",
+      "category": "food"
+    },
+    {
+      "id": "9033dcb3188f8514c887",
+      "title": "‘목욕탕 추억, 웰니스로 재해석’ 정식품, ‘목욕마켓2’서 베지밀 감성 전한다",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201665",
+      "source": "식품음료신문",
+      "publishedAt": "2026-11-17T10:20:33+00:00",
+      "category": "food"
+    },
+    {
+      "id": "f8cdde3c0ef7587c37b8",
+      "title": "BBQ, 올 상반기 홍대·명동 매출 40% 넘었다",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201666",
+      "source": "식품음료신문",
+      "publishedAt": "2026-11-17T10:17:16+00:00",
+      "category": "food"
+    },
+    {
+      "id": "c370b0a56352acba8f76",
+      "title": "CJ제일제당, PHA 적용 인조잔디 충전재 국내 첫 도입",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201664",
+      "source": "식품음료신문",
+      "publishedAt": "2026-11-17T10:10:07+00:00",
+      "category": "food"
+    },
+    {
+      "id": "76a8abc6aa4ca49d4515",
+      "title": "[11/17 오늘의 새상품] 농심 ‘매콤마요 볶음너구리’, 오뚜기 ‘옛날 돌김자반’",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201663",
+      "source": "식품음료신문",
+      "publishedAt": "2026-11-17T10:01:57+00:00",
+      "category": "food"
+    },
     {
       "id": "614d0fb8747b353dc98c",
       "title": "아·태 식품 시장 ‘스몰 럭셔리·예방 건강·경험 경제’가 이끈다",
@@ -9,6 +49,30 @@
       "source": "식품음료신문",
       "publishedAt": "2026-11-17T07:54:00+00:00",
       "category": "food"
+    },
+    {
+      "id": "e2fb2a8392e92a513c7a",
+      "title": "호텔스닷컴부터 여기어때까지…블랙프라이데이 맞은 여행 플랫폼 할인 경쟁 - 스타패션",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10ZGR4S0s3X2RhRWhadndxRWxxRGNQY05aWnYxUEc5ZUVTcVh5bEplMGNSTGIwSzlabjBzUnZoOHoyV3hlSWVSWXcxT2FWcmlGQ1E0NENfV3Zwa3oydUR3?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-17T04:12:00+00:00",
+      "category": "life"
+    },
+    {
+      "id": "b686816944d16310b068",
+      "title": "설화수, 신제품 ‘퍼펙팅 틴티드 립오일’ 출시 - 주간신문씨엠엔",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oQk5sU2pWRTVYMEwzQ2ZkZi1vbXhrNFBSOHhWY3hsR1BJSXptX3l4OURQb29vOHBDaUVmVGxtVTBGdXhKY1htdGdpcEtQLW4xOGQ5ZTBHOF9mRU0yMFMtZDh3NjhhTXI5V1dn?oc=5",
+      "source": "뷰티 신제품 뉴스 검색",
+      "publishedAt": "2026-11-17T04:01:59+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "f57563e56d8d84245261",
+      "title": "한우 사골 수출길 열고 농업인 혜택 늘리고…농식품부 ‘감동행정’ 12인 선정 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qTTNHMDZvU2s5YndpUmFfMWM1b3U3cFNEeGtwbTlqRXJRT24tLUVWazRzOTN6aExqRXRjTGNsSVhLWk9HVmhBWlFZMXk2VTByMTJHczhB?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-17T04:00:00+00:00",
+      "category": "life"
     },
     {
       "id": "95e8b3dcc6db8cc20031",
@@ -24,6 +88,14 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MV3JvdHlFazVUVjZkam9zOUpFNTZJWThZVksySTFyWktpS3NYRzFwaWFCVUxsYkdaYzdKZGFGTmtURFVhNEFqclBIcXNWa0J0LTRQa0VZRjZ3QWZndEs1MUR1cWtzcklqaVN0cg?oc=5",
       "source": "생활 혜택 뉴스 검색",
       "publishedAt": "2026-11-17T02:42:21+00:00",
+      "category": "life"
+    },
+    {
+      "id": "5337a4c8cc2d518ec0d5",
+      "title": "애경산업 원씽, 겨울철 피부 보습 겨냥 신제품 출시 - 소비자가 만드는 신문",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01UER4T1JTT2dLV19kZFQzNG8wdzBja3o4Ul9VRXp3YVA0U19MRW9aNmpPbXNrOXFPMk1qcFlTbUZNbTR1UWw5QlVESmVDdm5YU3FTcWNjbmR6Ni1YWnZFclRTQy1JT280bmYxNGVzQndoOVE?oc=5",
+      "source": "생활용품 신제품 뉴스 검색",
+      "publishedAt": "2026-11-17T02:25:19+00:00",
       "category": "life"
     },
     {
@@ -43,6 +115,14 @@
       "category": "life"
     },
     {
+      "id": "08ce046afaa3b1c2e68e",
+      "title": "설향 딸기가 다쿠아즈에 쏘옥…세븐일레븐, 디저트 경쟁력에 사활 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ndGE5ZHQ1ZzZERHdvMURDZ0ZUQXVhZllNRUd2WjV6NmVIWllYQ3U1bm9rNXoxQWZpOXJJMjNCa3g1WVNSdVctSUQzSmFrYW9fTVN0ZnVYa2d1VkhGdXVtVVMwVXhzNGh1b1hIMFU1SFZrTGJIbUlXNtIBeEFVX3lxTE5ndGE5ZHQ1ZzZERHdvMURDZ0ZUQXVhZllNRUd2WjV6NmVIWllYQ3U1bm9rNXoxQWZpOXJJMjNCa3g1WVNSdVctSUQzSmFrYW9fTVN0ZnVYa2d1VkhGdXVtVVMwVXhzNGh1b1hIMFU1SFZrTGJIbUlXNg?oc=5",
+      "source": "디저트 출시 뉴스 검색",
+      "publishedAt": "2026-11-17T01:42:09+00:00",
+      "category": "food"
+    },
+    {
       "id": "ad3c87ad794ae7b5c9cc",
       "title": "설향 딸기가 다쿠아즈에 쏘옥…세븐일레븐, 디저트 경쟁력에 사활 - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2bHgzTTNaUUtFR25rbnRfcEhKeWF6aFRtQUNKemRSU3dhcnozRVFxTlU4c01PbXpRMkJXb1l3WUIyUUVhS195Q1JkR1VOLTJjWGlEdVB0djNxMTgyMGV6V9IBeEFVX3lxTE5ndGE5ZHQ1ZzZERHdvMURDZ0ZUQXVhZllNRUd2WjV6NmVIWllYQ3U1bm9rNXoxQWZpOXJJMjNCa3g1WVNSdVctSUQzSmFrYW9fTVN0ZnVYa2d1VkhGdXVtVVMwVXhzNGh1b1hIMFU1SFZrTGJIbUlXNg?oc=5",
@@ -57,6 +137,14 @@
       "source": "뷰티 신제품 뉴스 검색",
       "publishedAt": "2026-11-17T01:34:44+00:00",
       "category": "beauty"
+    },
+    {
+      "id": "122131b56c68035411ed",
+      "title": "\"수능 끝나면 여행 가자\"…제주항공, 항공료 20% 할인 - 남도일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tWmNzVW5CYjMtQ2lnV0ctRDhrQ2Q3SVVNSWJBSVQzUmlIOEhoLWszUjhKeV9fRzBaSEJpc3hBMWJpUkxWRnhkZF9aS0lZOVlFN1VwN1BUVm95a3ZiaG1YY1VWMFg5ZHJVWlBVWHZnS2zSAXBBVV95cUxPLVpjc1VuQmIzLUNpZ1dHLUQ4a0NkN0lVTUliQUlUM1JpSDhIaC1rM1I4SnlfX0cwWkhCaXN4QTFiaVJMVkZ4ZGRfWktJWTlZRTdVcDdQVFZveWt2YmhtWGNVVjBYOWRyVVpQVVh2Z0ts?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-17T01:12:00+00:00",
+      "category": "life"
     },
     {
       "id": "e3bbaec2977343b59aaa",
@@ -934,7 +1022,7 @@
       "id": "ff54e25e6702b357b19a",
       "title": "이디야커피, 디저트 넘어 한 끼 식사까지···푸드 메뉴 19종 개편 - 스마트비즈",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VbUhMV0Z2S1pwQmxNa1BRclJKZEdiT3F6cDRmRUQwc0FiOVlkOXpaV1d0Wkc1OFZWVlViblZKX1BRaklYRDRBamlHS2ZsSXVuMFVEbzdnd0hEXzdjQUZMdG93Ry14blhRMjhrUQ?oc=5",
-      "source": "카페 신제품 뉴스 검색",
+      "source": "디저트 출시 뉴스 검색",
       "publishedAt": "2026-11-16T02:23:08+00:00",
       "category": "food"
     },
@@ -1016,6 +1104,14 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUOF8xbms2ZVBITHZuaW4zNFQ4OWF6NUJTMUd6WnJxSHluVmZBbVBpR1JpTmFaSW94LWRmUDBzUDV1cGNQMjB0bUwyV0RFWWRNZFNVaUxn?oc=5",
       "source": "여행 할인 뉴스 검색",
       "publishedAt": "2026-11-16T01:54:13+00:00",
+      "category": "life"
+    },
+    {
+      "id": "09ee767040d79f125aed",
+      "title": "하나은행, 수험생 응원 이벤트…청년 금융생활 지원 - 베이비타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Pdk0wTEcybThaTGdHTE1Ud1pud3N1bktPanBGd2RtUXBfVjRSVG5RWnM3N09zNzJoQVVtM3FEeHNxRW5DZnQwV0JQcXBqaXhRdV9LU1N3WjdtT0Y3Mk9INVdIQ3FYRGItc2pSMFFn?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-16T01:51:38+00:00",
       "category": "life"
     },
     {
@@ -1606,7 +1702,7 @@
       "id": "df623b2819f1d65be409",
       "title": "[요즘신상] 설향 딸기 디저트에 연말 케이크까지… 카페·외식업계, 이색 겨울 메뉴 출시 - 천지일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UTFhWWY3ZTl4YmJkQXR5NmZUckRRQkFLV3FlOFh4dHpMOGFydUJwUVM1QXJGUlF2MkE0YUl3dnp3YnVhMGtSQlpOVlFrSFE3TmsybjBVRzdVbUQzUjFkaHM2cWMzLW1VVmc?oc=5",
-      "source": "카페 신제품 뉴스 검색",
+      "source": "디저트 출시 뉴스 검색",
       "publishedAt": "2026-11-15T08:13:56+00:00",
       "category": "food"
     },
@@ -1771,14 +1867,6 @@
       "category": "life"
     },
     {
-      "id": "af285a9afda8243af90c",
-      "title": "겨울 아우터부터 방한화까지…한파 맞이 기능성 경쟁[패션·뷰티 HOT신상] - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RREZJNU9Pb1NIUU9MNGVUWGhFaHhOUkVtd1hzR0pZM0dwb2ViM1ZjWDdVS1dSSVp5S09Wa3JidF8wZnZ1dm1NSk9PU2t5OXJiVGtnSkNGVUNNNXM2WjE0ek0zbk1jbll4LVhXZEc3dE1kMkpFRnlyVdIBeEFVX3lxTE9RREZJNU9Pb1NIUU9MNGVUWGhFaHhOUkVtd1hzR0pZM0dwb2ViM1ZjWDdVS1dSSVp5S09Wa3JidF8wZnZ1dm1NSk9PU2t5OXJiVGtnSkNGVUNNNXM2WjE0ek0zbk1jbll4LVhXZEc3dE1kMkpFRnlyVQ?oc=5",
-      "source": "패션 신상 뉴스 검색",
-      "publishedAt": "2026-11-14T00:00:00+00:00",
-      "category": "beauty"
-    },
-    {
       "id": "89287aeb86b7f0de4023",
       "title": "NH농협카드, 중국·대만 여행 할인…직구 최대 64달러 혜택 - 뉴시스",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LTWJOa3hPOEVFNnpsemJWSlQxLXl2OEZrSHlrdWNsc3hCM2VBb2tndzYxZ0U3dzBhWE1MdWx6NG92bU1GMzhncVhWYzdjQlNhMGc5dW83ai1WcmQ0cUtjMdIBeEFVX3lxTFBmV3VnLVdrQVJZeDA0RlJCVGN1XzNkWWI3Y3RiZlJrZWxkaU14RHJPSlA1Nm43Z2IyY3NJeG1ubVNTZEhxdDRvWEZPekF2TkhMeVMwRDlsNG1YdlRHLTktVnBXS1pKQjNuZjN5emNVdVE3Q3dVVnF4Qw?oc=5",
@@ -1793,6 +1881,14 @@
       "source": "생활용품 신제품 뉴스 검색",
       "publishedAt": "2026-11-14T00:00:00+00:00",
       "category": "life"
+    },
+    {
+      "id": "af285a9afda8243af90c",
+      "title": "겨울 아우터부터 방한화까지…한파 맞이 기능성 경쟁[패션·뷰티 HOT신상] - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RREZJNU9Pb1NIUU9MNGVUWGhFaHhOUkVtd1hzR0pZM0dwb2ViM1ZjWDdVS1dSSVp5S09Wa3JidF8wZnZ1dm1NSk9PU2t5OXJiVGtnSkNGVUNNNXM2WjE0ek0zbk1jbll4LVhXZEc3dE1kMkpFRnlyVdIBeEFVX3lxTE9RREZJNU9Pb1NIUU9MNGVUWGhFaHhOUkVtd1hzR0pZM0dwb2ViM1ZjWDdVS1dSSVp5S09Wa3JidF8wZnZ1dm1NSk9PU2t5OXJiVGtnSkNGVUNNNXM2WjE0ek0zbk1jbll4LVhXZEc3dE1kMkpFRnlyVQ?oc=5",
+      "source": "패션 신상 뉴스 검색",
+      "publishedAt": "2026-11-14T00:00:00+00:00",
+      "category": "beauty"
     },
     {
       "id": "2e1de4782263a01a4205",
@@ -1931,18 +2027,18 @@
       "category": "beauty"
     },
     {
-      "id": "961bb4c19196e8f7638d",
-      "title": "폴햄키즈, ‘디즈니 플리스 맨투맨’ 2종→내셔널지오그래픽 키즈, 26FW 신상 - 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51d2RweTE3TWNoWW5RVU9BX1U5MWJiLTY0d3RnTXp2ZkRNaVdZeGEtRWpPekxEU0Fvc3FpZjVoOGVxMzJJYk9FQ1lwTVZheUc0Q1JvS09URkpIZy1vLWl5cm1fdG5zUQ?oc=5",
-      "source": "패션 신상 뉴스 검색",
-      "publishedAt": "2026-11-13T08:00:00+00:00",
-      "category": "beauty"
-    },
-    {
       "id": "11c986dd8f3d204a9179",
       "title": "컬리·무신사·올리브영, 뷰티 페스타도 3사 3색 - 지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51M25MbmFQVFpzRjlTWTYtOGtBY3JLY1o4cVNPdnBvdmtXbXlmZUo0X2NYUzNhVFp6Z3NSVjZIczljaVRWVHBSWGhDQ2x5aEFSUzlXem5n?oc=5",
       "source": "올리브영 뉴스 검색",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "961bb4c19196e8f7638d",
+      "title": "폴햄키즈, ‘디즈니 플리스 맨투맨’ 2종→내셔널지오그래픽 키즈, 26FW 신상 - 싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51d2RweTE3TWNoWW5RVU9BX1U5MWJiLTY0d3RnTXp2ZkRNaVdZeGEtRWpPekxEU0Fvc3FpZjVoOGVxMzJJYk9FQ1lwTVZheUc0Q1JvS09URkpIZy1vLWl5cm1fdG5zUQ?oc=5",
+      "source": "패션 신상 뉴스 검색",
       "publishedAt": "2026-11-13T08:00:00+00:00",
       "category": "beauty"
     },
@@ -1961,6 +2057,14 @@
       "source": "카페 신제품 뉴스 검색",
       "publishedAt": "2026-11-13T07:31:57+00:00",
       "category": "food"
+    },
+    {
+      "id": "18f9c66db9581409a6d9",
+      "title": "항공권 할인에 라운지 100원까지…KB국민카드, 해외여행 혜택 확대 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fNDZwcXBtZ3NFcVRoRjBfdUJoMGtROGxpWllRZUJ6d2Q3WWpmcHVOdks1eENHVEJyZl84VUVjRDRDVFNIb3lld3lwaV9hSGk2ajQyWk4tWUQxZ9IBVEFVX3lxTFA5Z1FraEQxVXBYY2w2ODBzekdZV2UzZFVNdV9ueEhkMFhUcTRoWmdmbnU5X19RM3JnZ1ByM21lRjYyeUNRM1FoOGV3Um8yb24yZ1I3YQ?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-13T07:10:37+00:00",
+      "category": "life"
     },
     {
       "id": "7decccff8d87d6d4974f",
@@ -2134,7 +2238,7 @@
       "id": "eba38b2a8c2438853dce",
       "title": "시몬스, 테라스 카페 겨울 신메뉴 출시…음료·디저트 구성 확대 - 딜라이트닷넷",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mczhqUWNSdlJpdkhnUGh4SGxnUndEV244VVpsOFVrcVdpbC1DbjVwbWR3Zk9BZGJvZ3NBMlFTMUsyc29RSnlxenpQQ1UzMUhkUk1ReHFTSnlUdkl1TVdJeEFFUHoxcEpVQ2ZZcUxOcmxhQdIBckFVX3lxTE5mczhqUWNSdlJpdkhnUGh4SGxnUndEV244VVpsOFVrcVdpbC1DbjVwbWR3Zk9BZGJvZ3NBMlFTMUsyc29RSnlxenpQQ1UzMUhkUk1ReHFTSnlUdkl1TVdJeEFFUHoxcEpVQ2ZZcUxOcmxhQQ?oc=5",
-      "source": "카페 신제품 뉴스 검색",
+      "source": "디저트 출시 뉴스 검색",
       "publishedAt": "2026-11-13T01:11:39+00:00",
       "category": "food"
     },
@@ -2224,6 +2328,14 @@
       "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500717",
       "source": "여행신문",
       "publishedAt": "2026-11-13T00:05:00+00:00",
+      "category": "life"
+    },
+    {
+      "id": "60ff91131e55ed284b38",
+      "title": "모나리자, 일반 물티슈보다 2배 넓은 ‘빅 사이즈 점보 물티슈’ 출시 - 뉴스탭",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84QXpfMUtRaGQ3NVNJTnM4UVljM3ZmYVFvckZ1d2plYXh3ME9PRlFGVDVsS180bUttckR4aS10UVRqbGZPUE5iN2s2aWRNRXFIR2E5Z214RG41UGg0VW9JdFpLcFdReTNvbGZpZw?oc=5",
+      "source": "생활용품 신제품 뉴스 검색",
+      "publishedAt": "2026-11-12T23:53:54+00:00",
       "category": "life"
     },
     {
@@ -2689,118 +2801,6 @@
       "source": "트래블데일리",
       "publishedAt": "2026-11-11T21:59:13+00:00",
       "category": "life"
-    },
-    {
-      "id": "9caed2ee8c9164386a44",
-      "title": "한국관공, 관광벤처기업에 성장 날개 단다",
-      "url": "https://www.traveldaily.co.kr/news/articleView.html?idxno=72658",
-      "source": "트래블데일리",
-      "publishedAt": "2026-11-11T21:59:12+00:00",
-      "category": "life"
-    },
-    {
-      "id": "c3fd1dfd180549c1d8d6",
-      "title": "‘디스커버서울패스’ 활용 야간관광 활성화",
-      "url": "https://www.traveldaily.co.kr/news/articleView.html?idxno=72657",
-      "source": "트래블데일리",
-      "publishedAt": "2026-11-11T21:59:11+00:00",
-      "category": "life"
-    },
-    {
-      "id": "c7761a82014586b22f4d",
-      "title": "한진트래블, 타히티·쿡제도 크루즈 12일 여행 출시",
-      "url": "https://www.traveldaily.co.kr/news/articleView.html?idxno=72656",
-      "source": "트래블데일리",
-      "publishedAt": "2026-11-11T21:59:09+00:00",
-      "category": "life"
-    },
-    {
-      "id": "c038d3130ad56855945d",
-      "title": "에어프랑스-KLM, 합작법인 설립",
-      "url": "https://www.traveldaily.co.kr/news/articleView.html?idxno=72655",
-      "source": "트래블데일리",
-      "publishedAt": "2026-11-11T21:59:07+00:00",
-      "category": "life"
-    },
-    {
-      "id": "1ecf9439b312d7990e5b",
-      "title": "농심, 동반성장지수 8년 연속 최우수 등급",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201618",
-      "source": "식품음료신문",
-      "publishedAt": "2026-11-11T14:50:06+00:00",
-      "category": "food"
-    },
-    {
-      "id": "2f01acf9a1e1490faf09",
-      "title": "[인사] 한국수산자원공단",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201617",
-      "source": "식품음료신문",
-      "publishedAt": "2026-11-11T14:47:53+00:00",
-      "category": "food"
-    },
-    {
-      "id": "e7ca33cb4cf6b2b97b98",
-      "title": "롯데웰푸드, 글로벌사업 성과 속 3분기 ‘호실적’",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201616",
-      "source": "식품음료신문",
-      "publishedAt": "2026-11-11T14:46:37+00:00",
-      "category": "food"
-    },
-    {
-      "id": "3e0c16f691f70ebe23d2",
-      "title": "[12/4] ‘2026 AI-급식테크 컨퍼런스’ 개최",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201615",
-      "source": "식품음료신문",
-      "publishedAt": "2026-11-11T10:28:37+00:00",
-      "category": "food"
-    },
-    {
-      "id": "4cc34b35a8222e8fe362",
-      "title": "아워홈, 일본·호주·뉴질랜드 코스트코 입점…글로벌 식품사업 본격화",
-      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201614",
-      "source": "식품음료신문",
-      "publishedAt": "2026-11-11T09:35:11+00:00",
-      "category": "food"
-    },
-    {
-      "id": "bcd048a817a6a36e3557",
-      "title": "포항·서산 '고용위기 선제대응지역' 1년 연장…철강·석화 고용침체 대응 - 머니투데이 - 머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84S2pFd0hnblNpWEhVRXpjUjBOQWlyS0JseHNHU1N4cmVTVEYtSFZMdlBPb3B1QkloZDZYdGp6RV9JX2MzbTVlc05saEVCTGV1Z085Skd6M0Q1SG9hQWR6XzJnX1RIWTYtMDVxeWFBMDLSAXBBVV95cUxPOEtqRXdIZ25TaVhIVUV6Y1IwTkFpcktCbHhzR1NTeHJlU1RGLUhWTHZQT29wdUJJaGQ2WHRqekVfSV9jM201ZXNObGhFQkxldWdPOUpHejNENUhvYUFkel8yZ19USFk2LTA1cXlhQTAy?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-11T09:00:00+00:00",
-      "category": "life"
-    },
-    {
-      "id": "f23ed3875900b0def5c0",
-      "title": "[동정] 오설록, 무카페인·디카페인 신제품 출시 - 주간신문씨엠엔",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qT2tTZ0tkT21fcF9XcWtuQUJVbmZ6bE5ORzZ5U0l2WnFyR2FLR2pyN1dnOXh3WDNpNVJqTDhaLUlaUzBuZklMSzltSmRaeDNOWXFFRS1GSlB6bzZQMlhZeDNJekNNcXVwOTdF?oc=5",
-      "source": "뷰티 신제품 뉴스 검색",
-      "publishedAt": "2026-11-11T08:10:10+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "7f838bf302434fc798ad",
-      "title": "2027학년도 수험생 할인｜수능 후 할인 혜택과 이용 방법 - KB Think",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjcF84MDY1Y0lUWlNCb1VYR2ZZRThfT29pNVNCRm9hcVNWblBXenZCQ01QODJlZ09qdlZhYmFpeFIyejhWX3BCU2V3dHlIWHdjU0x6dTk5SDQwTlJkLXRwZktraTc?oc=5",
-      "source": "여행 할인 뉴스 검색",
-      "publishedAt": "2026-11-11T08:00:00+00:00",
-      "category": "life"
-    },
-    {
-      "id": "27d3669edd989ba3621c",
-      "title": "축제 열고 체험 늘리고…애경산업·올리브영·아모레, 고객 잡기 경쟁 - 세계일보",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOQ2xzNk1lUVFoeTFBRF9Fcy1UQ3REVW15UVFxVFBVS2JrVFBvRHR2M3N3T1BMRTIwU3ljX3hBVjVQZ1pFalRpdjhPLUxZd1doYkFXdlRLTjXSAVRBVV95cUxNZ2VkRWdIY3FFT1d4cUg3czJmcEdhdjRlSEczWGpTOEpSaUU0X0ZzdGVaZUZ1bVJfZmc5QmZuQzRSb3BnWUxMck9Va0M1bllmLUxyWVo?oc=5",
-      "source": "올리브영 뉴스 검색",
-      "publishedAt": "2026-11-11T07:59:44+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "b59c852354a712475400",
-      "title": "‘크초생’부터 '순금 케이크'까지…크리스마스 디저트 뭐살까 - 지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPQ1BYcTVLUzMyNW9nT3pEU1RhT1RoLXVvMFNUcGlBLWtkQzNvZUhVSXhpanlDLXQyZjFPbnZ3dGJlVjNlRHprRVRCcGhSU2tIaWdZckF3?oc=5",
-      "source": "디저트 출시 뉴스 검색",
-      "publishedAt": "2026-11-11T07:52:24+00:00",
-      "category": "food"
     }
   ],
   "feeds": [
@@ -2812,22 +2812,22 @@
     {
       "id": "thinkfood",
       "status": "ok",
-      "items": 43
+      "items": 48
     },
     {
       "id": "coffee-new",
-      "status": "ok",
-      "items": 24
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "id": "convenience-new",
       "status": "ok",
-      "items": 12
+      "items": 11
     },
     {
       "id": "dessert-new",
       "status": "ok",
-      "items": 30
+      "items": 29
     },
     {
       "id": "jangup",
@@ -2846,13 +2846,13 @@
     },
     {
       "id": "fashion-new",
-      "status": "ok",
-      "items": 26
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "id": "oliveyoung",
       "status": "ok",
-      "items": 27
+      "items": 25
     },
     {
       "id": "travel-times",
@@ -2867,17 +2867,17 @@
     {
       "id": "travel-sale",
       "status": "ok",
-      "items": 72
+      "items": 71
     },
     {
       "id": "living-new",
       "status": "ok",
-      "items": 17
+      "items": 19
     },
     {
       "id": "discount-new",
       "status": "ok",
-      "items": 33
+      "items": 31
     }
   ]
 }
