@@ -74,6 +74,8 @@ jobs:
           python -m json.tool public/data/rss-news.json > /dev/null
       - name: Build SEO-friendly pages and sitemap
         run: python scripts/build_seo.py
+      - name: Build discovery, verified pages and analytics workspace
+        run: python scripts/build_pipeline.py
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload website
