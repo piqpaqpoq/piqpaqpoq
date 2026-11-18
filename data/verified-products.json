@@ -1,0 +1,16 @@
+{
+  "products": [],
+  "_guide": "RSS 자동 수집 후보는 절대 여기에 자동 등록되지 않습니다. 공식 원문을 직접 확인해 reviewed=true 및 사실 필드를 채운 것만 게시됩니다.",
+  "_example_not_published": {
+    "reviewed": false,
+    "slug": "example-product-2026",
+    "brand": "CU",
+    "name": "제품명 예시",
+    "summary": "상품의 가격, 출시일, 특징과 구매 전 확인할 사항을 45자 이상 직접 검증해 작성합니다.",
+    "price": "기본 가격 0원 (예시, 게시 금지)",
+    "releaseDate": "2026-11-19",
+    "verifiedAt": "2026-11-19",
+    "officialUrl": "https://example.com/not-official",
+    "proof": "브랜드 공식 원문에 실제 제품명·가격·출시일이 표기되어 있음을 직접 확인하고 근거를 20자 이상 작성합니다."
+  }
+}
