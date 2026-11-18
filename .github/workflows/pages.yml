@@ -41,6 +41,7 @@ jobs:
           test -f data/seo-products-2026w3.json
           test -f scripts/build_pipeline.py
           test -f scripts/patch_static_links.py
+          test -f scripts/public_only.py
           mkdir -p public/assets public/data
           cp index.html public/index.html
           python - <<'PY'
@@ -80,6 +81,8 @@ jobs:
         run: python scripts/build_pipeline.py
       - name: Fix SPA navigation for generated static pages
         run: python scripts/patch_static_links.py
+      - name: Remove operator-only tools and private data from public website
+        run: python scripts/public_only.py
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload website
