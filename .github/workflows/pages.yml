@@ -38,6 +38,31 @@ jobs:
           test -f data/rss-news.json
           mkdir -p public/assets public/data
           cp index.html public/index.html
+          python - <<'PY'
+          from pathlib import Path
+          page = Path('public/index.html')
+          source = page.read_text(encoding='utf-8')
+          measurement_id = 'G-4Q7P01BEHT'
+          marker = f'https://www.googletagmanager.com/gtag/js?id={measurement_id}'
+          if marker not in source:
+              if '<head>' not in source:
+                  raise RuntimeError('HTML <head> not found; GA4 tag was not installed')
+              tag = (
+                  '\\n<!-- Google Analytics GA4 -->\\n'
+                  f'<script async src="{marker}"></script>\\n'
+                  '<script>\\n'
+                  '  window.dataLayer = window.dataLayer || [];\\n'
+                  '  function gtag(){dataLayer.push(arguments);}\\n'
+                  "  gtag('js', new Date());\\n"
+                  f"  gtag('config', '{measurement_id}');\\n"
+                  '</script>\\n'
+              )
+              source = source.replace('<head>', '<head>' + tag, 1)
+              page.write_text(source, encoding='utf-8')
+          if marker not in page.read_text(encoding='utf-8'):
+              raise RuntimeError('GA4 verification failed')
+          print('GA4 tracking tag installed: ' + measurement_id)
+          PY
           cp -R assets/. public/assets/
           cp data/rss-news.json public/data/rss-news.json
           python -m json.tool public/data/rss-news.json > /dev/null
