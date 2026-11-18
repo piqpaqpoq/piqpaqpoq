@@ -35,6 +35,7 @@ jobs:
         run: |
           test -f index.html
           test -f assets/js/app.js
+          test -f assets/js/ppq_analytics_events.js
           test -f data/rss-news.json
           mkdir -p public/assets public/data
           cp index.html public/index.html
@@ -58,10 +59,13 @@ jobs:
                   '</script>\n'
               )
               source = source.replace('<head>', '<head>' + tag, 1)
-              page.write_text(source, encoding='utf-8')
-          if marker not in page.read_text(encoding='utf-8'):
-              raise RuntimeError('GA4 verification failed')
-          print('GA4 tracking tag installed: ' + measurement_id)
+          event_script = '<script defer src="assets/js/ppq_analytics_events.js"></script>'
+          if event_script not in source:
+              source = source.replace('</head>', event_script + '\n</head>', 1)
+          page.write_text(source, encoding='utf-8')
+          if marker not in source or event_script not in source:
+              raise RuntimeError('GA4 tag / custom event script verification failed')
+          print('GA4 and outbound click tracking installed')
           PY
           cp -R assets/. public/assets/
           cp data/rss-news.json public/data/rss-news.json
