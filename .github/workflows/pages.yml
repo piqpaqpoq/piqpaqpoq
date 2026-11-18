@@ -37,6 +37,8 @@ jobs:
           test -f assets/js/app.js
           test -f assets/js/ppq_analytics_events.js
           test -f data/rss-news.json
+          test -f scripts/build_seo.py
+          test -f data/seo-products-2026w3.json
           mkdir -p public/assets public/data
           cp index.html public/index.html
           python - <<'PY'
@@ -70,6 +72,8 @@ jobs:
           cp -R assets/. public/assets/
           cp data/rss-news.json public/data/rss-news.json
           python -m json.tool public/data/rss-news.json > /dev/null
+      - name: Build SEO-friendly pages and sitemap
+        run: python scripts/build_seo.py
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload website
