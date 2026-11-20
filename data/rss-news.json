@@ -1,7 +1,23 @@
 {
-  "checkedAt": "2026-11-19T22:37:07.960058+00:00",
+  "checkedAt": "2026-11-20T04:46:30.260567+00:00",
   "days": 7,
   "items": [
+    {
+      "id": "f57dc58945919d8872f5",
+      "title": "박소부터 반미까지, 서울마당에 아세안 11개국 한 상",
+      "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500752",
+      "source": "여행신문",
+      "publishedAt": "2026-11-20T10:20:00+00:00",
+      "category": "life"
+    },
+    {
+      "id": "4a792adedf33410d948b",
+      "title": "밤새우고 건강 챙기는 중국 MZ…간식 시장까지 바꿨다",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201657",
+      "source": "식품음료신문",
+      "publishedAt": "2026-11-20T10:06:50+00:00",
+      "category": "food"
+    },
     {
       "id": "b2f95a7cb975557fe4e2",
       "title": "노선 더 늘리고 싶어도…슬롯·주기장에 막힌 청주공항",
@@ -1179,20 +1195,20 @@
       "category": "life"
     },
     {
-      "id": "8dae3fef6df1a953611b",
-      "title": "용인 보정동 카페거리, 7900원으로 커피·디저트 즐긴다…‘보카 투어패스’ 출시 - www.skedaily.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PS3lBOGRDSWZjaW0taFduVFhOM3RfNngyTnM0U05GSUFLcDgzX2dUQ0NyR3JfQ3FjNHoyaTFScTN0YTVaWjlfTmhRZHhocG1COXNEY3hyWDNzenFPeWJqak9scVpmTzhGMUE?oc=5",
-      "source": "디저트 출시 뉴스 검색",
-      "publishedAt": "2026-11-18T22:01:14+00:00",
-      "category": "food"
-    },
-    {
       "id": "7d39714212533a990e0a",
       "title": "‘2026 대한민국 관광기념품 박람회’ 개최",
       "url": "https://www.traveldaily.co.kr/news/articleView.html?idxno=72732",
       "source": "트래블데일리",
       "publishedAt": "2026-11-18T22:01:14+00:00",
       "category": "life"
+    },
+    {
+      "id": "8dae3fef6df1a953611b",
+      "title": "용인 보정동 카페거리, 7900원으로 커피·디저트 즐긴다…‘보카 투어패스’ 출시 - www.skedaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PS3lBOGRDSWZjaW0taFduVFhOM3RfNngyTnM0U05GSUFLcDgzX2dUQ0NyR3JfQ3FjNHoyaTFScTN0YTVaWjlfTmhRZHhocG1COXNEY3hyWDNzenFPeWJqak9scVpmTzhGMUE?oc=5",
+      "source": "디저트 출시 뉴스 검색",
+      "publishedAt": "2026-11-18T22:01:14+00:00",
+      "category": "food"
     },
     {
       "id": "525ec6cecccd5e78446c",
@@ -2785,22 +2801,6 @@
       "source": "트래블데일리",
       "publishedAt": "2026-11-16T22:33:55+00:00",
       "category": "life"
-    },
-    {
-      "id": "bad09698bb120be060e6",
-      "title": "대만 관광객 절반 이상이 '부산 N차 방문객’",
-      "url": "https://www.traveldaily.co.kr/news/articleView.html?idxno=72695",
-      "source": "트래블데일리",
-      "publishedAt": "2026-11-16T22:33:53+00:00",
-      "category": "life"
-    },
-    {
-      "id": "c6bc32d84e36370840a0",
-      "title": "말레이시아 대형 포상관광단 1500명 유치",
-      "url": "https://www.traveldaily.co.kr/news/articleView.html?idxno=72694",
-      "source": "트래블데일리",
-      "publishedAt": "2026-11-16T22:33:52+00:00",
-      "category": "life"
     }
   ],
   "feeds": [
@@ -2812,22 +2812,22 @@
     {
       "id": "thinkfood",
       "status": "ok",
-      "items": 48
+      "items": 42
     },
     {
       "id": "coffee-new",
-      "status": "ok",
-      "items": 29
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "convenience-new",
-      "status": "ok",
-      "items": 12
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "dessert-new",
-      "status": "ok",
-      "items": 28
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "jangup",
@@ -2841,23 +2841,23 @@
     },
     {
       "id": "beauty-new",
-      "status": "ok",
-      "items": 27
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "fashion-new",
-      "status": "ok",
-      "items": 29
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "oliveyoung",
-      "status": "ok",
-      "items": 28
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "travel-times",
       "status": "ok",
-      "items": 41
+      "items": 35
     },
     {
       "id": "travel-daily",
@@ -2866,18 +2866,18 @@
     },
     {
       "id": "travel-sale",
-      "status": "ok",
-      "items": 61
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "living-new",
-      "status": "ok",
-      "items": 23
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "discount-new",
-      "status": "ok",
-      "items": 29
+      "status": "error",
+      "error": "HTTP Error 503: Service Unavailable"
     }
   ]
 }
