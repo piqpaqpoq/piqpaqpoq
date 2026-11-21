@@ -44,6 +44,7 @@ jobs:
           test -f scripts/public_only.py
           mkdir -p public/assets public/data
           cp index.html public/index.html
+          cp drinks-under-2000.html weekly-deals.html public/
           python - <<'PY'
           from pathlib import Path
           page = Path('public/index.html')
