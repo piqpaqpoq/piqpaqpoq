@@ -1,7 +1,39 @@
 {
-  "checkedAt": "2026-11-25T04:54:41.695586+00:00",
+  "checkedAt": "2026-11-25T10:45:11.518127+00:00",
   "days": 7,
   "items": [
+    {
+      "id": "de7532da9568441e587f",
+      "title": "스텔라 아르투아, 미쉐린 1스타 ‘이타닉 가든·소울’과 연말 협업 다이닝 개최",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201731",
+      "source": "식품음료신문",
+      "publishedAt": "2026-11-25T15:53:04+00:00",
+      "category": "food"
+    },
+    {
+      "id": "880ffb93856e70c56a79",
+      "title": "파리바게뜨, 21년 연속 구세군 1호 성금 전달",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201728",
+      "source": "식품음료신문",
+      "publishedAt": "2026-11-25T13:31:41+00:00",
+      "category": "food"
+    },
+    {
+      "id": "0b079098c3624269ff16",
+      "title": "공정위, CJ프레시웨이 ‘부당 고객유인’ 제재 착수…회사 측 “사실 아냐, 충실히 소명”",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201727",
+      "source": "식품음료신문",
+      "publishedAt": "2026-11-25T12:16:52+00:00",
+      "category": "food"
+    },
+    {
+      "id": "6bbbc20e5bacdf81c801",
+      "title": "전통장 품질관리…이제 과학적으로 끌어 올린다",
+      "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201726",
+      "source": "식품음료신문",
+      "publishedAt": "2026-11-25T11:00:00+00:00",
+      "category": "food"
+    },
     {
       "id": "81707cb3af3542594bf5",
       "title": "흩어진 한우 데이터, 이젠 휴대폰에서 한 곳에…축평원 ‘한우 비서’ 출시",
@@ -19,6 +51,14 @@
       "category": "food"
     },
     {
+      "id": "728da5e1ac17273c5ffa",
+      "title": "갑자기 찾아온 추위에 겨울 아우터 판매 늘었다…패션업계 신제품 경쟁 - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByZG4wOGJRVnJYZ25kMVRvZ1BYZElnSTkzSVNBc3dzMkdoOVc0VjBiVlhpaFo4eDRYVnFOUU52OV91NldibDZvOUVBZU5jUlZNdkxSVF91LW40ZXRyVk53YWc4cmg5dXZEZEdz0gFUQVVfeXFMUHd3RFExWk9TcEVpcUdxS2l5NUtIY2pDMXZCdVEyR0Iyb1YtQzN2RHJIbVREdnFFeE5rV3UxMEZubWpZY0NUa2dwQklTYkdDT04zdU9u?oc=5",
+      "source": "생활용품 신제품 뉴스 검색",
+      "publishedAt": "2026-11-25T10:00:00+00:00",
+      "category": "life"
+    },
+    {
       "id": "8a18421e61cf7f242362",
       "title": "동서식품 ‘삶의향기 동서문학상’ 대상에 이영미 씨 수필 ‘까꾸랑대’",
       "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201723",
@@ -28,11 +68,59 @@
     },
     {
       "id": "b3d592037afe8c1ab281",
-      "title": "[11/25 오늘의 새상품] 롯데웰푸드 ‘칸쵸 호빵’ 2탄, 정식품 ‘베지밀 꼭꼭 씹히는 애플망고두유’ 리뉴얼, 버거킹 ‘오리지널스 브리티쉬 체다 에그’",
+      "title": "[11/25 오늘의 새상품] 롯데웰푸드 ‘칸쵸 호빵’ 2탄, 매일유업 ‘셀렉스 프로틴바’ 3종, 정식품 ‘베지밀 꼭꼭 씹히는 애플망고두유’ 리뉴얼, 버거킹 ‘오리지널스 브리티쉬 체다 에그’, 이디야커피 ‘겨울 시즌 음료’ 2종",
       "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=201722",
       "source": "식품음료신문",
       "publishedAt": "2026-11-25T09:32:45+00:00",
       "category": "food"
+    },
+    {
+      "id": "5c9db09f7ebd2a94a2ab",
+      "title": "[오늘의 브랜드] 유한킴벌리, 대한민국 지속가능성지수 생활용품 부문 1위 外 - 베이비뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Gei1kb3dPcEJSa0w5LU9icWhGYlAtbVU5aHhuV05DNEVDcFFEYmg5a29NM1p2ak1XWFZyZVJmSENDNGx5cVdoaldLZE0xZkZwc19qSVU4eE5ZTGhhOGZZcm42TmxMV0ZQcjF5bA?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-25T09:02:56+00:00",
+      "category": "life"
+    },
+    {
+      "id": "ea0ef4c8a8ca718cae35",
+      "title": "조각 케이크 한 조각 7000원대···카페는 '마시는 디저트'로 연말 공략 - 스마트비즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZaUE4Q19EdHRhUU9Mb18yVFBSdDhjUzRCSk8wU29EUVhUalNGaC0wZGE1NlNncVBYMnUxMTJ1N3IzdHNoMXctM1NVUkI5VlVjT1RfaVY1cUlNNlRxM29qdlVnbW9hN0h5eFNBXw?oc=5",
+      "source": "카페 신제품 뉴스 검색",
+      "publishedAt": "2026-11-25T08:21:55+00:00",
+      "category": "food"
+    },
+    {
+      "id": "2e72074b21db42f50e19",
+      "title": "코레일, 가족돌봄청소년 1명 고졸채용 합격…총 13명 지원 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YelNfYkduVmtaTWpaNDNubWx0TG9yZGJ4aWtsUGJYM21xaHJHX01qWnBGMXhRRFBqdUt6NHJ6TXg2R0Q4NzR6bm85Q3NWQW1IZUJ1Mk12blF0eDlqSkx5LQ?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-25T08:13:56+00:00",
+      "category": "life"
+    },
+    {
+      "id": "dd19400d80d048746827",
+      "title": "전경선 전남광주통합특별시의원, “같은 특별시 다른 복지 혜택... 지원 기준 일원화 촉구” - 누리일보",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53QW9ORFlwYmpUMDBPaGhRbWdYS1BCTS0tVWJfdXJzd0Vha0R1VWE2MkhoTndPX3FXaVhqbzQ2Uy1QaEtZdHBycU9BTVVVbnN6d3VhWXBFNVNOa1pSZnk4?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-25T08:11:40+00:00",
+      "category": "life"
+    },
+    {
+      "id": "abee3f2b25379bc6414b",
+      "title": "대한화장품산업연구원, K-뷰티 원료 국산화 성과 공유 세미나 개최 - 코스인코리아닷컴",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ELUp0NnMtdDFwZ21ES0V0VUVPS1NyTUVGUm5OUm1NWGFnNVE4SDJZeTFBSWNLc2N3dUtxdjBMVDZUeU5OOV80UUxTTW43b0JUajdhZXZ2X25zc0ZOVUhXTUtWZw?oc=5",
+      "source": "뷰티 신제품 뉴스 검색",
+      "publishedAt": "2026-11-25T08:05:22+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "0ea0029e6247da364d32",
+      "title": "인천 탄소중립 실천, 시민 제안·생활 혜택으로 참여 넓혀야 - 인천게릴라뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQYlZTX0N0ZTRaLXdvT1VlZk9qM0RfUjZibWtmM0tmMjd2R1Q3VnI0RWcyR1RmblBoZVljSTFMUno3cUF6QUgxOXkzeERpUzBJcUJ3MkE3THB5Rnk1Yy10WDk4eVFNSXc?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-25T07:57:32+00:00",
+      "category": "life"
     },
     {
       "id": "3458cda5ef3b64d108b7",
@@ -41,6 +129,214 @@
       "source": "식품음료신문",
       "publishedAt": "2026-11-25T07:52:00+00:00",
       "category": "food"
+    },
+    {
+      "id": "30a2157ec09eb3dced95",
+      "title": "[항공권 가격 추이] 11월 4주차 해외 평균가 15% 상승·특가 최대 25% 할인 - 센머니",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mSzFpQWNLSjJfX0FMb015aUZjQzE5OEdSLWk0X3dQUEIwQ3R1SUNpSDUyMHpsNXFaaU9KR2sxTmQtNlp4cVltTmsxYi1rczVuZGJ2bXppMUl6TjdUWXgxcThxWmhTZlU0YmZPVA?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-25T07:24:08+00:00",
+      "category": "life"
+    },
+    {
+      "id": "13577a7a53272d1661ed",
+      "title": "신한은행, SOL트립앤샵 체크카드 고객 대상 땡겨요 파파존스 제휴 할인 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZVZFc05Yd1BHUTcwZ0ptbEdwb29CdjdNbXRXX055VjhSeDVRNEw3WkhSLUN6Z1RxYXBiQ3JrRWRWU2RFdk9vTXZCTW5ZeFJPSFlqYzlpeVk0Skgy?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-25T07:02:00+00:00",
+      "category": "life"
+    },
+    {
+      "id": "516ce7b1f884f4a8f99d",
+      "title": "신한은행, 'SOL트립앤샵 체크카드' 이용객 땡겨요서 파파존스 최대 1만7000원 할인 - 비욘드포스트",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14ZUUtaXpxeWZBMHhZT1o5eXB5MmVGLUVFNUJSUUlzQ0hfcFFBekxVZlI5NW9kTGg3b1I4NkRTTGhCR2xWYm1TM0dpTVA4WnlLS3JkQklrM2hvZ25UWEdKMmVwSVlBWEM3UWJtd3p4T0Q2M0tneG41bjhyNGo?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-25T06:59:42+00:00",
+      "category": "life"
+    },
+    {
+      "id": "98a307817b6abf2f029b",
+      "title": "딸기 시즌 막 올랐다…음료·디저트 쏟아진다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95VXA1ZFV2UVlRNVdseTZtZjZYd0JRdVp0OWkxVXJkZV8wQ3NGaUF0dmctUl9LRjZrTUw1U0VkWFV2bkNrNTBWYWtmZjJTMmh5NnVzS2F6SkloWjlKWnBLStIBeEFVX3lxTE5BNXlLNFB2d3JMRmdtenFrYTJIaE8tVXlwNzBwYXRXU0ZSUzRHeHFVQ3Z2b0RERFJCZl9KMndyYWdIMG1tVHhocVNmcnNKR0Z6M3QyX2FaLTJmal96OWhubG5ZcjlLdjJ5ZG1jeG80YWQtdTR3YWk0bw?oc=5",
+      "source": "카페 신제품 뉴스 검색",
+      "publishedAt": "2026-11-25T06:56:38+00:00",
+      "category": "food"
+    },
+    {
+      "id": "4018696ba88b3923d315",
+      "title": "일·생활 균형 우수기업 124곳 선정…근로감독 면제 혜택 - 데이터투자",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoa0xBVnNyQmQ5ZEtKMnNSRTU1Z0RyMGJTYzNRZTZPb21SZW1mOUp6UDFBTnBsYVBVTl9jaEZzUXZlalh1MGl2RFMwMGIzM2N6ZUVhMHFQaU9HOUpReWxFZU9mdzhqQlQyOEpfVERaSUNfQzA?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-25T06:40:48+00:00",
+      "category": "life"
+    },
+    {
+      "id": "3070c40cf42bff623e00",
+      "title": "[신상브리핑] 롯데웰푸드, 매일유업 셀렉스, 배스킨라빈스, 공영홈쇼핑, 청호나이스, 교원투어 여행이지 外 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBURnV2eC1DWk9ENmw1RTZKY1VqTXV1RjY1bzhtWkZ1cnVQSEpHektJd09kT3c5SW0zZUNHeDAwOFhqVHZDU3RmYW05UklPTGtfa1FWWlByQm5maDFJaGVRUGVsbVRXNi04RGJKMk0ta9IBc0FVX3lxTE9nRHl5NFZUSGctYTRLMmp3UFhPZEgyaGNKeTNZakFxTDczNVg2RlFRWm9XclJsTmRXRUQ3ZW9JNzNKT0JKTVVuckJDdFpWeTB3YTZ5TVAwdnZMYXVDZnhhNFlIQzJ2S3JwclIyNF9mdFU4TEE?oc=5",
+      "source": "패션 신상 뉴스 검색",
+      "publishedAt": "2026-11-25T06:00:00+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "a3c9cc0fb33f34665c65",
+      "title": "[유통레이더] CJ온스타일, 롯데홈쇼핑, CJ올리브영, 골프존, 롯데월드 아쿠아리움, 소노인터내셔널 外 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ckMxMzlWWEZpdjF5akg2MVJXYjhNcW5xOFVxa0dfaFpRWE5ULTZFblkwMFNDMnpnSEJpQWJiNWROTGZScVppRTFQX3lMbC1BOFB4WnRDTlh4aEZ4OGY3SmNXdm5nejJ2d2NFbnZkRdIBc0FVX3lxTFBlOFNRWVRSVnRodzlUdG13dnpfZ3VjTkZnNnRSVldiX3hVM202ZVJwRHBxdGZiS2lSakdGc1JDNWNON09wckhZcTBpMW9EOEN2Umg0bUthUE5VcUJoRlJDU1U2MjUxYVFPMU9HLXZQWm12Mzg?oc=5",
+      "source": "올리브영 뉴스 검색",
+      "publishedAt": "2026-11-25T06:00:00+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "e89c24726b0295444f43",
+      "title": "“매일 쓰는 구강케어도 라이프스타일”…유한양행, 무신사 뷰티 성수 입점 - 이코노미사이언스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSaTFjY21udktGUjRSdVgxLWNOWlNpdmtDZEtKUnJ0SUdKdWtITlBObDJXQUtkVmV0TTg2dWpzcVlSWFhtZ2dNRkhKMXBqOEpPVUV6YjY5VzhJZnA1b2poY3A4MG4zbENObEJ5Zkx1TQ?oc=5",
+      "source": "생활용품 신제품 뉴스 검색",
+      "publishedAt": "2026-11-25T05:39:25+00:00",
+      "category": "life"
+    },
+    {
+      "id": "fec53f7d5151894c9dd1",
+      "title": "이디야커피, 바닐라빈 딥라떼·대추 수정과 겨울 신메뉴 출시 - 푸드투데이",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVS1ISUNBNUd5NXhrbl9XbjNsdzVrakMtaEQtQk5Mei13WjJyWVJRd3A4dTQ5Sm5rdUNqUnU2TFVZQUh4bFZqVjJGVGxFdXVUT0VfUTRMbzhnd3RNYmpZSGxwM000UQ?oc=5",
+      "source": "카페 신제품 뉴스 검색",
+      "publishedAt": "2026-11-25T05:20:55+00:00",
+      "category": "food"
+    },
+    {
+      "id": "688c6a4a82ebe3f2d727",
+      "title": "[신제품 출시] 건강한 간식부터 크리스마스 디저트까지…식품·외식업계, 겨울 시즌 공략 - 코리아포스트 한글판",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NkRXajBxdGRDSnZsUE5IYkJ2RFpVODdicEtsblJkZDBpam1KZ2FvVWFkRkxSeG5jWU9OVTlEaDhHZjB5ZnlZVkt0WXRZR0ZMQ2poc1lKaTRHMlFPT2VKTGVPNEd0bzZwcDNBM21n?oc=5",
+      "source": "디저트 출시 뉴스 검색",
+      "publishedAt": "2026-11-25T05:09:03+00:00",
+      "category": "food"
+    },
+    {
+      "id": "046db2d90d5bb1b1dcbd",
+      "title": "코레일관광네트웍스, 수험생 기차여행 20% 할인 - 애드뉴스인천",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wRV9Yc1BrYkdfNndDLTVnR0hFZHRsWUtHRjFMYzJVdlFrUTdmOHJSb0ZBS29CYkNNeVQzVHA5cVZoVllNWXFwcEJlMmZab3dISnpiN3E3ZGFqYmtiX19IbkphWV93cWhEZ3h3?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-25T05:00:00+00:00",
+      "category": "life"
+    },
+    {
+      "id": "5d8bdca1f82d4478336f",
+      "title": "장성군, 주택계약 중개 보수 지원 확대 - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mZktuQ2o3Ym1RRnJUWFN3dEdxWVFEekRRVVd1S1lTSFg1VV9mMEVUS0w5UUZvZXZqYk1FTTVpQ0NxU0trYnZWSGFpY3BWQkpqRFpRVmtCdnhyMjJQSkpSQXZ6aFcwU1BmdE52U9IBcEFVX3lxTE5OSm4zM0JvR3B1U2N6UTFud2VHWEtrUGMtZGlrQV9DWG5NWmFTOFMzeFdNRmhiNkpwR05kWGotSDRWVXlTbWhNWlpCdHJaX0pxMWUxUm1sc1pROEg0elhiVU82Skh3bnlmWDQtZGx3MFk?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-25T04:57:37+00:00",
+      "category": "life"
+    },
+    {
+      "id": "cc849b8c01121167c946",
+      "title": "에어부산, 겨울 여행 부담 낮춘다…항공권부터 호텔까지 할인 - ER 이코노믹리뷰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjbE8yT0o4aHE5MVVVbzhCU3JfeHo1NElMODVxOGdjVzlkQ0JiS3VidTFKT0FQSFlmc2toRGgzckwzZzlMbXo3bmMwWUVzRk9PWXVseTY3V1lsYVgzY2Joam9PVzQ2dlQ1b2U1MQ?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-25T03:23:40+00:00",
+      "category": "life"
+    },
+    {
+      "id": "62ae5c2df4ae376b602d",
+      "title": "대한화장품산업연구원, 12월 7일 ‘K-Beauty 원료 산업 경쟁력 강화 세미나’ 개최 - 코스인코리아닷컴",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WNHVGOTZZRUp6c2l5TDQxRnN0N1RSNU01OURWNm9FcGZsdTdtQVRiY1pLeG55V3dLNXBaSDc3czF0QWw3QVk5bEJHZXE5YlRrckw5Q3VGQ0x5dHhuVzkteA?oc=5",
+      "source": "뷰티 신제품 뉴스 검색",
+      "publishedAt": "2026-11-25T03:06:19+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "60599eff93b6c880909c",
+      "title": "[똑똑한뷰티] 화해글로벌, 에이블리, CJ올리브영, 쿠쿠 메디킨, 현대면세점 디올 - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Kek1fSUY2b0UwNUszdkhYTlBGTFp5SUdOSHZHWVFNQkhHTDdVVGRQZ29YeEdjNTRWMHlQMW9NMjhjMVdJVU1hbGVpNHNSVnE1dHl6U2RpSUYtSGs?oc=5",
+      "source": "올리브영 뉴스 검색",
+      "publishedAt": "2026-11-25T03:00:00+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "7a5a1b6663d1896b4f41",
+      "title": "알앤디메이커스, 업사이클링 풋 케어 브랜드 ‘라라슈’ 출시...신제품 워킹화 공개 - 비욘드포스트",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vUFpteG1KbGIyWWZJU2FYMkRzZFZCaXA4eXQ4OUI5QTBUU3VFRHZVWnc1bTZvc2NibVFBM01JSWh0Tkk1N3V3bGpoLUotUW50MUM4UWlzbTBDYWpUakZWMktFLVhJOXZFQ1did2JBejNBdDNRLUNXTjRZeWY?oc=5",
+      "source": "생활용품 신제품 뉴스 검색",
+      "publishedAt": "2026-11-25T02:56:00+00:00",
+      "category": "life"
+    },
+    {
+      "id": "f2b7b932edbe0daf337c",
+      "title": "CJ올리브영, K뷰티 꿈꾸는 청년 키운다…교육부터 취업까지 지원 - 서울타임즈뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VZkJsT3YxNkNQbFFiR1ZDUmNsZGRCQmtmeVUzcm9hS2xrUm9WTFJjS2JLUVNMQVFjQ3BTd3NlcGFqNzVtbzJPV0F6MGFnZjV2NzJBMW5GTUFGWVdNOV95a0NfZGZLcjdUVnlv?oc=5",
+      "source": "올리브영 뉴스 검색",
+      "publishedAt": "2026-11-25T02:51:00+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "5bd901d8a670aa3c3e71",
+      "title": "[여행소식] '수능 끝' 수험생 기차여행 20% 할인 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nd3gzMkw1MVBYV1NqX0lpZFFKM0ZvOUxJQkhfRlVOQnlmOTh1SmRiSXE0ZFJVQzZNM1ZRQmJ3c1pNUmlKMFN5Q1lpWjJHUzFSZDhGNWxReGhPNmZfQU5KZNIBYEFVX3lxTE5nd3gzMkw1MVBYV1NqX0lpZFFKM0ZvOUxJQkhfRlVOQnlmOTh1SmRiSXE0ZFJVQzZNM1ZRQmJ3c1pNUmlKMFN5Q1lpWjJHUzFSZDhGNWxReGhPNmZfQU5KZA?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-25T02:09:05+00:00",
+      "category": "life"
+    },
+    {
+      "id": "19c0f26c8e868dd4318a",
+      "title": "광양시, 섬진강권 4개 시·군 숙박 할인 ‘섬진강여행 여기어때’ > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xZkFRREJSdno1bU5oaXBHTnQ5Sl9WOFJkMHR6MnRRZlcyOGZQZ0hfR0g5ekZEUE9nd3F2cEdlQWt3LVk2UHhGcFVwNA?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-25T01:48:34+00:00",
+      "category": "life"
+    },
+    {
+      "id": "b787fbf1845f6c2938ec",
+      "title": "[식품오늘] 본죽 죽 용기에 달콤한 초코 케이크 담은 반전 디저트 출시 - 식품외식경영",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kMUticmNOc0VYajdUU29DSVhkQW55b2ljMXNqdUJpLVpBT0RKYlRoMzZZQVdGOXd6ckN1dlJhTFpwaTg1eGdhdEVBZE9nTmVBTFVKTnJFMlFWMktyWnZSSjl3?oc=5",
+      "source": "디저트 출시 뉴스 검색",
+      "publishedAt": "2026-11-25T01:20:49+00:00",
+      "category": "food"
+    },
+    {
+      "id": "273ba85dc35b4a5926e6",
+      "title": "한국능률교육평가원, 베이비시터·지도사 자격증 무료수강 지원 - ABC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zM3RXQ3d3eXZsSE5KVXprS1hMOWZzcTh0Q0N3MVU4RkJBMmVkV3hTc1dwazIxQlJCYWF0TWZSU041ZWtZQXlnWkwwQlZrM2dDeEU5U2NIQ1BTMTRuVVNrbEdTUdIBZ0FVX3lxTE9sWTBiM0dUSkdpd3RwRjRXMG95cW8wdGw5cTJwVXh2YzlESWtreUtqQkxpNjVkemFNZkIzZ1BIM0VtZXA3Zm5zWXBCVjRiUjNPNnFtaE1hdi1QeUsxTGE4UE8xR1ZKVU0?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-25T01:00:00+00:00",
+      "category": "life"
+    },
+    {
+      "id": "9b18fa206cf9eff38782",
+      "title": "에코디엠랩 윤만순 대표, ‘중소기업 혁신 유공’ 국무총리 표창... 쿼드쎄라 기술 경쟁력 주목 - 코스인코리아닷컴",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lZjAxQi1pODQtaGk3ZG5Va2FZYk5OeExrdXAzbjVYejA5OTJfSXBRMDhNUWVlajQ1S19TYzVZaThsdnc1SDJjM0ppQ29OWUZjc2dnaHJnODhRckx5YnprUE9ISQ?oc=5",
+      "source": "뷰티 신제품 뉴스 검색",
+      "publishedAt": "2026-11-25T00:59:18+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "280cb4bd04bd071413ca",
+      "title": "트리니티항공, 팔로우 쿠폰 제공→에어프레미아, 닝보 취항 최대 20% 할인 - 싱글리스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44TjIyNUM3a29aeWJaTFFJbmdveS1BbUVZdFdVYXJ1djhhZTR0MENRdVpGMUFDWGM2R0czRTFoVEtOTzRQM05JMDhrVkhMZUZQWUtQNjQ5VU9YWG55NzgxS0dGUDZXQQ?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-25T00:45:11+00:00",
+      "category": "life"
+    },
+    {
+      "id": "3c42214ba2c5f5cda393",
+      "title": "자격증 교육부터 취업 상담까지...CJ올리브영, 뷰티 교육생 40명 선발 - 청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByeWhodFdhcWJiTDV0WjdrWkgteVB3dHozV0FQS3hSV1ZaNjBSOWRRbFY0VjZwZDNLMks4eWJnZXF3S1QwZnpBOW9OM1NvWjhqRXRSM1VJMmFqcWJzUUZydGdlQk1VOVU?oc=5",
+      "source": "올리브영 뉴스 검색",
+      "publishedAt": "2026-11-25T00:41:31+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "e46b89c1eac2fb3da8a0",
+      "title": "잠자는 금융 혜택 찾아주는 생활 밀착형 기술 전면 배치…토스, ‘코리아 핀테크 위크 2026’ 참가 - 더페어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mTlo1LVNmMDZHVkQyTHRlZVhmS19KN0pqeWFsME1ETnM1UHZKQ2hPd0hnTGJoaGN2YS1rSXV0dUlXUnBITm5Bb2prVTEyNjBNUTdGYklKSFc3NS1sX096c3M5ajdEQkI2OXBITHpYUXHSAXRBVV95cUxOaG5pbXdLSG1aVF9xc1I4OERPVnVBeHU3R3J2YkUwTnR1cFpLeVlaay11Y01PTFhGeWdvbjM5cnFXVXhNX0xQMHJKRThvcWpRN1RJNjFKNVhXeFpQMGJoQWJkU3pOR3MzWllsdWlldnV0N1NpMg?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-25T00:25:53+00:00",
+      "category": "life"
+    },
+    {
+      "id": "0c20fb12f9ed0fdcc292",
+      "title": "올리브영, 옴니 앤 비욘드. 그다음은? - 뉴닉",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DWUZZX1BKajJaOHBmN2c5RDc4LUlrTXRPWFQzZEx1R1ZyblBWWlQ3NENoUi1BUjdyaVBZTUM5S1ZqME02VWJCTHJZX1IyM1FoVTRXd2FB?oc=5",
+      "source": "올리브영 뉴스 검색",
+      "publishedAt": "2026-11-25T00:20:51+00:00",
+      "category": "beauty"
     },
     {
       "id": "050b23e4380f3bd653c3",
@@ -80,6 +376,22 @@
       "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500770",
       "source": "여행신문",
       "publishedAt": "2026-11-25T00:05:00+00:00",
+      "category": "life"
+    },
+    {
+      "id": "1f659cf31ca9290fba81",
+      "title": "CJ올리브영, K뷰티 꿈꾸는 청년 지원…‘마이 퍼스트 미라클’ 2기 출범 - 소셜밸류",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1Njl1WkxWRllFbE9iRm5HWXNfdk94RjEzQWpBLUZjUzBNRXZ1akZRQTdweWFQTDhfSnl3RjQ2TERPRmg2amxxU3RrNUxsR3JOWnJ5SjZFRFR4ckRHRmRXNFpyWdIBbEFVX3lxTFB0V1hQdy1wNmpjTDlVU3p1NlR4cmsweC1ZVmtDdWRCOFE5REo2N004LXVlM2h5RjdHeDNlcnl4c0xsS1lncGpjV1hkQjRoMXBjaHhsSVljOWZXZUhpMmJLcW1ZZWVhMXNLMWdwaA?oc=5",
+      "source": "올리브영 뉴스 검색",
+      "publishedAt": "2026-11-24T23:53:30+00:00",
+      "category": "beauty"
+    },
+    {
+      "id": "29889a48a91e13d09238",
+      "title": "LG유플러스, 유튜브 구독료 반값에 즐긴다…11월 30일까지 신규 가입 혜택 - 리드경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fMmdJZGNUdml3cEhaWFZnZkh3Y0o3NkkyaEw1eFoxdGNaQUhEcHFrTUY3RkEzcWhBbTJ3OW8yNHV4MDJNb0QxWnZhNTFqU2J5d1ZGa2gzdzloVHRpa0VrTHNjbGRwMlp3WjFySGdzMk4?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-24T23:33:17+00:00",
       "category": "life"
     },
     {
@@ -203,6 +515,22 @@
       "category": "life"
     },
     {
+      "id": "8d341f3cc7b25d570882",
+      "title": "문화누리카드 ‘최대 16만 원’…기초·차상위, 30일 신청 마감 - 창원특례신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PR1hQMFM5ZlRpdkh6T1Fpbk9mdkpqbmFkMUttQ2xVSkNZbndJY3FvY2puQkp5QUJsTllVYWdrakNIUGVwV1ZfU1RPOV9idTl6YWhlM1cxekQ4WWpUZFBZRG5HMXpMdGPSAWtBVV95cUxNNjRrdVh4V3EwQmRtU0xfWkpaUTFwQVB3M3pVc3BJeEFsQ2dhdm9qdkJKVlFmSlFNbzBoSi1TaDRJTjRYd0kxSjljbGh0cnpaVTdYMkk0R01nLXYtc3A0Y2ttMnROc1lvUTdzNA?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-24T20:42:11+00:00",
+      "category": "life"
+    },
+    {
+      "id": "e6d60ff3c6dcab95c4b7",
+      "title": "광양·구례·곡성·하동 뭉쳤다, ‘섬진강여행 여기어때’ 숙박 2만 원 할인 혜택 제공 - 이트레블뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5WUkNhSjh3cktJa2hCRExPaGtpV29WcVQzT2R4dWlkSDBTV2IyWnRFWldaYVEzM3l6TDAyc1dn?oc=5",
+      "source": "여행 할인 뉴스 검색",
+      "publishedAt": "2026-11-24T20:30:00+00:00",
+      "category": "life"
+    },
+    {
       "id": "a287d023be7f956e0951",
       "title": "[오늘 하루, 11월 25일] 습관... - 코스인코리아닷컴",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OamtPcG00Q21HWDJRVXIwSWxiT3VNUm13VEg5dXdlRjhLREhYa21rcjRORDFZOFg0NGNIZmFYdVRwSkJWVFhxZkVWdDRObnYyYXFWcWtiVmhCbDhEcUZZcjVoN1lWZw?oc=5",
@@ -211,11 +539,19 @@
       "category": "beauty"
     },
     {
+      "id": "fcb66ff568c518da74bf",
+      "title": "겨울에 관한 이야기를 들려주세요. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41eEVCWWRIX0JDYlBOaTVFLWZPakZWUXMybkZJNm1ad2dJcE9ZR29WeGRzVHQzdFpoSUZtX1Q2bHZHWEp6MXJ1NmFjbmFmaVZLbEdkQ1dOM05Mb01hODFsSA?oc=5",
+      "source": "패션 신상 뉴스 검색",
+      "publishedAt": "2026-11-24T16:32:32+00:00",
+      "category": "beauty"
+    },
+    {
       "id": "c10491e218800426d7c0",
       "title": "2주면 ‘신상’ 개발… 편의점, 제조사 손잡고 속도전 - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVlZvZ3Ezb09wdWxzVkhnelFEVmh1bnZKcGQwZzB3STlmTW03NWlPNkh0SXhaWmdYWWctdFZkTmpHbzNyTEJLYWtlU1ZVYkVMUHBsQURHa1VYTEVpU29sb216bDI5VUpwaUZTRkkwdU1ZalFWSl9aMjJSeV9aWU9VbjRidW1STURCMjhNVm5QVQ?oc=5",
       "source": "편의점 신상품 뉴스 검색",
-      "publishedAt": "2026-11-24T15:33:00+00:00",
+      "publishedAt": "2026-11-24T15:44:08+00:00",
       "category": "food"
     },
     {
@@ -377,6 +713,14 @@
       "source": "카페 신제품 뉴스 검색",
       "publishedAt": "2026-11-24T06:29:26+00:00",
       "category": "food"
+    },
+    {
+      "id": "0722e3f9b2ce11b317b7",
+      "title": "홈앤쇼핑, 리가 겨울신상 출시…겨울 패션 수요 공략 - https://www.moneystorm.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PeWxfcUh1SUplWENOc2o4T3N5cnVXT2puNW14djQ3MDNGZWt4VFR2REpRMURkSkt0R09nbE1Vd1NCZkVnQmtkVTVJLWVXNWl0TS1JX3VHX01rWmRDeE1SaVBRVTg1Q0tzY0E?oc=5",
+      "source": "패션 신상 뉴스 검색",
+      "publishedAt": "2026-11-24T06:09:25+00:00",
+      "category": "beauty"
     },
     {
       "id": "d1398c5a2271c16c9e67",
@@ -787,6 +1131,14 @@
       "category": "life"
     },
     {
+      "id": "94db1c2592303093aedc",
+      "title": "\"크리스마스 디저트 직접 만들자\"…오리온, 한정판 과자세트 8종 출시 - 연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5McmFnSDhBVVpZc1lXRFhlUm9fWGlGSWFNcDVNYktMSmtTVTJIaDZJOUJ0Q3NMbG14NGRJYUt2c0tPcmxMSGNudGp6TG5GMTZ4LWVFMThlSzU2d3N4cHVVUm1LSEFvUm8?oc=5",
+      "source": "디저트 출시 뉴스 검색",
+      "publishedAt": "2026-11-24T00:10:00+00:00",
+      "category": "food"
+    },
+    {
       "id": "9cd679bde379269b4bbb",
       "title": "한국인의 뉴욕 사랑은 여전… 올해 45만 명 돌파 전망",
       "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500763",
@@ -801,14 +1153,6 @@
       "source": "여행신문",
       "publishedAt": "2026-11-24T00:10:00+00:00",
       "category": "life"
-    },
-    {
-      "id": "94db1c2592303093aedc",
-      "title": "\"크리스마스 디저트 직접 만들자\"…오리온, 한정판 과자세트 8종 출시 - 연합뉴스TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5McmFnSDhBVVpZc1lXRFhlUm9fWGlGSWFNcDVNYktMSmtTVTJIaDZJOUJ0Q3NMbG14NGRJYUt2c0tPcmxMSGNudGp6TG5GMTZ4LWVFMThlSzU2d3N4cHVVUm1LSEFvUm8?oc=5",
-      "source": "디저트 출시 뉴스 검색",
-      "publishedAt": "2026-11-24T00:10:00+00:00",
-      "category": "food"
     },
     {
       "id": "de4ea9091b962ca6557e",
@@ -1227,17 +1571,17 @@
       "category": "food"
     },
     {
-      "id": "6f795f8dc5d7b4f55789",
+      "id": "78266747a8b34392287b",
       "title": "LG유플러스, 해외여행 할인도 통신사에서…7개국 혜택 쏟아진다 - 한스경제",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FcURUOGlSWjg0UElySFRna1kxRkZ5M0xlaHdiSnRzV1FlcGtLQ1NHOXp5VkFVb3p3NnAxRHZ6Zm9mVmg1bnZubFlnUHd0WWYxUm91b0hyOWFJejBkRms3V01hUk5oRk1zT1Rz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzaUZONkszNnAzTGhmZmFfNW1mTVk4clNBLXRrMTYzemlXSUl3TFotNmE1a3ZLTnJhdHEwdUpWVkdyR05oWUNwU3g3TGowMFY2dXdGTHBpWjNUZ0FTZHA3YXd1UmdYQ0hWZ1otMw?oc=5",
       "source": "여행 할인 뉴스 검색",
       "publishedAt": "2026-11-23T09:45:00+00:00",
       "category": "life"
     },
     {
-      "id": "78266747a8b34392287b",
+      "id": "6f795f8dc5d7b4f55789",
       "title": "LG유플러스, 해외여행 할인도 통신사에서…7개국 혜택 쏟아진다 - 한스경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzaUZONkszNnAzTGhmZmFfNW1mTVk4clNBLXRrMTYzemlXSUl3TFotNmE1a3ZLTnJhdHEwdUpWVkdyR05oWUNwU3g3TGowMFY2dXdGTHBpWjNUZ0FTZHA3YXd1UmdYQ0hWZ1otMw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FcURUOGlSWjg0UElySFRna1kxRkZ5M0xlaHdiSnRzV1FlcGtLQ1NHOXp5VkFVb3p3NnAxRHZ6Zm9mVmg1bnZubFlnUHd0WWYxUm91b0hyOWFJejBkRms3V01hUk5oRk1zT1Rz?oc=5",
       "source": "여행 할인 뉴스 검색",
       "publishedAt": "2026-11-23T09:45:00+00:00",
       "category": "life"
@@ -1507,6 +1851,14 @@
       "category": "life"
     },
     {
+      "id": "6cdc0cd829813c969a80",
+      "title": "서부교육지원청 돌봄 대상…인천 2년 연속 우수사례 배출 - 인천게릴라뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jMkczQXU1SnNEWVBGVGRYU1Y4OW05RDRfS2p0NUR3Q21VSnZOamktQ0N6Uk5uX0t4WEowaHBZMkNkRUZ1Y1JDOXpXZUpCM1FJM01ZUl95RElKSVktUTd0dHRqN0gyeTA?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-23T06:20:29+00:00",
+      "category": "life"
+    },
+    {
       "id": "67759dfd654e293103b3",
       "title": "카타르항공 블랙프라이데이 항공권 최대 20% 할인…노선별 적용률·제외 날짜 확인 - 여행레저신문",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFJJQ2hyQXRhLTJ0d3ZmS0lXSC15R2FLZzlqOXRkUVFKNU85Ui0zTTdzMjBPWmtzcDNva05nb0NPQmwwcmFmbnpVNGJhQWxXT3lpRHp2VG05MDlmZHZUS1JHY1ZvcnNBekRrNHdmcWtyenFzM3hqZUxoLVg3ZUota1FnNUZJVWxxdkhLUWJyWHZkbFB1VHVDUjR2dnlUdw?oc=5",
@@ -1592,6 +1944,14 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jclBndm1wVXRxanl6NmNmQlhPdWk2Q0F3VUZROE00d2FGR3BpSlprTHJHQTlSalFlWE9aLXFqNUh0b0tVSmxVcmZNNERJMHo4Wldrc2xyOTV6X2ZQb2N6TzlBQVE2aENNZ3ow?oc=5",
       "source": "생활 혜택 뉴스 검색",
       "publishedAt": "2026-11-23T05:34:00+00:00",
+      "category": "life"
+    },
+    {
+      "id": "87e6976702a2050428fb",
+      "title": "인천문화재단 창작지원, 지역 거주·소재 기준 강화 - 인천게릴라뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTU1V4eDFRai1ONmg2VHVtQl83bVJuQTNrOXpwVnlBdGJfTnhvN3lTUDl4bEdLZTBGemVXNkVQYlhSY183ZG9MTk1WbXhRM1FHUEZ0WU5qTldLQTA0SDFCV25OS2FZWGs?oc=5",
+      "source": "생활 혜택 뉴스 검색",
+      "publishedAt": "2026-11-23T05:33:00+00:00",
       "category": "life"
     },
     {
@@ -2441,366 +2801,6 @@
       "source": "생활 혜택 뉴스 검색",
       "publishedAt": "2026-11-22T19:07:31+00:00",
       "category": "life"
-    },
-    {
-      "id": "445c0ca5d82d9ccff61f",
-      "title": "강진 ‘반값여행’, 日 규슈 부흥 할인보다 소상공인 상생·경제 선순환 효과 ‘우위’ - 브레이크뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBXaEtvaktobkkwVFJ1ZE1YTFBwQnQxME5QeHR4VlZsTWZBUlE2ZEFKbldXV0tCWjhkRG5ROWoyNml2dw?oc=5",
-      "source": "여행 할인 뉴스 검색",
-      "publishedAt": "2026-11-22T19:02:00+00:00",
-      "category": "life"
-    },
-    {
-      "id": "67968cfc9794dc6f0b99",
-      "title": "[랭킹연구소] 아태 100대 카페 호주 18곳·한국 13곳·일본 11곳…韓 모모스 8위·카테고릭 13위 - 뉴스스페이스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pMG5MUXV4YVZPRktYX2F6bTRTS2FxazdrWko1NXhvTmtDNWthVTVwV0VIQmRnVTYySkJFdFc1MHEyTzU5RWwxbDlvcExpYnd4N3dVRFNTMW1nRXBLSEM4cA?oc=5",
-      "source": "카페 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T17:00:00+00:00",
-      "category": "food"
-    },
-    {
-      "id": "810bb231d897a9494890",
-      "title": "“불체자 포함 가정 주거지원 박탈” - 미주한국일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZVRoU1lTZU1VUkVPcnM2T1JfNXVlUHhYZWtrclZnMldXNGNNc2tzU1otSHB3NXMzVHRoWEFNYUlpZHB2ZDFNdFNabHo0RkVGTFl4Y0ln?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-22T15:27:55+00:00",
-      "category": "life"
-    },
-    {
-      "id": "08a4b626dfab11501d0e",
-      "title": "[오늘 하루, 11월 23일] 욕망... - 코스인코리아닷컴",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MSVJubExhMDhvdzNFMXBWdF8wQ0I3YUdubW1qYWxmYzJidTg3SWMtTkFicmg4bTZwZXNtY2VlRVEtR3pYc1FwNGdHZF9OY2wxVUNxdEJFSTdzVWhtUmtjVg?oc=5",
-      "source": "뷰티 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T14:49:00+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "a3c4f78ecc86a0c798c1",
-      "title": "[오늘 하루, 11월 23일] 욕망... - 코스인코리아닷컴",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhb016ZTM3S091clJENlVpYVJPdVFuWDRiaC16ZUVPdzlxU0FWNXJBYTFGQTFaQ2pfa25kOUh5cHlLNk9kdUx0SGpLUURKdVVWcmtJaHQ5dGJRWDlXbzI3SkFWWQ?oc=5",
-      "source": "뷰티 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T14:49:00+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "a50b0a60c8554faa73d0",
-      "title": "'2027 화장품시장 이슈와 전망 컨퍼런스’ ③ “AI가 추천하는 시대, K-뷰티는 어떻게 선택받을까” - 코스인코리아닷컴",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13QkQ1TnJuTS0tdVZoM0FBY3JRdDJtMUxWbXozRktmWldxeFJtR2czSmhqY3NlZTZna0JPMlZDdndDUTJXd3lrc01FVFh6SGd4Slo2eldnbVJpVzN3bEE?oc=5",
-      "source": "뷰티 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T13:52:54+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "fb506508cc13037b3cbf",
-      "title": "‘2027 화장품시장 이슈와 전망 컨퍼런스’ ② “AI 시대엔 안목이 자본”… 2027 뷰티 소비의 10가지 변화 - 코스인코리아닷컴",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MeVdnSVdyRl80eE91bFkxSWFCdnh0VldSbUMyd3NyT2VlRUFuOV9wVUx0a1BfTWkyN0ZOZ2xWRUc1VDM1QUNueldYQ0JBWDBWSW9UeDZoRFByMlNWaTdTY05CQQ?oc=5",
-      "source": "뷰티 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T13:47:19+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "47ff4a23e1882965794c",
-      "title": "‘2027 화장품시장 이슈와 전망 컨퍼런스’ ① “K-뷰티, 세 번째 성장기 진입”… 수출 지역·유통·제품군 넓어진다 - 코스인코리아닷컴",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tSHotMG5jYkdLWkl6RURxbTZKbktUUEpHWEF5azg4QWNrRHI2QVF1SS1oLTRtVDVocjcybmt6OXJONjdPWTV6RGYtUDF6b2xQSWRISHBKNm1FVmoxNEE?oc=5",
-      "source": "뷰티 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T13:32:58+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "7f5b7403db34f9f42a2c",
-      "title": "[재테크 특집] 막바지 가을여행… 놀이공원·항공권 할인 - 세계일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kSlNTRWh4eEsxTnRCSDlyenRPT1plMEk3cHM3ZWNXR3ZTZ0V0SjBfRXFCR2NrU3hSWG5Fb3hrS01vQndqbEYyOTZCS01OTnZh0gFUQVVfeXFMTkg5d3psRGlPa0p4cFpVRmZrY3V0a3ViSVhrZzNMbjVBZDd1cGNhc3dDbUFlbmV3T05MSHpueXNSUjU4Tlk1Sk1Lay1lOWVnc2o1M2lP?oc=5",
-      "source": "여행 할인 뉴스 검색",
-      "publishedAt": "2026-11-22T13:28:07+00:00",
-      "category": "life"
-    },
-    {
-      "id": "7b0463dc96106a47f8e7",
-      "title": "[여행단신] 한진·레고·트리니티항공·노랑풍선 - 트래블데일리",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aQnNiU2wwaE0wclJQRlA1a3RCUElwRnhlRGZhdC1HcDlkSncyQkhOU3pGVExVOWZDak5xVHVwRmZ1MEtBLXhjVzZldE1BdDR4Nl9sbUtJWVVOek5SUllUUXA3b2RJVmg3blkwTXA3TWs?oc=5",
-      "source": "여행 할인 뉴스 검색",
-      "publishedAt": "2026-11-22T12:33:17+00:00",
-      "category": "life"
-    },
-    {
-      "id": "f9993afd46f7ea2a01a1",
-      "title": "전남광주특별시, 섬진강권 숙박비 2만 원 할인 - https://www.theleader.co.kr/",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04bWhCcWxCOXdBa1Izd1NNSTdpcjZJWGtZaDF4NF80cnNVbVEyZndQVVlwNnE3bTRFbE5hSEVPbzgxZ0JsMHdjczA2VzFlZGhrUnpXeWlyZWVzRWhKdVlscWJrSVQ1QU5nM1lxaTRn?oc=5",
-      "source": "여행 할인 뉴스 검색",
-      "publishedAt": "2026-11-22T09:12:42+00:00",
-      "category": "life"
-    },
-    {
-      "id": "c8bcbc74b3462fe51d2d",
-      "title": "편집숍부터 현지맞춤 신제품 … K뷰티, 다시 중국 공략 속도 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Bc2stX2tZMFlWcENHeGphZVJUcWlyOWUzNzBvdTFDM2VLZndwT3VVcVl0N2szcXIzNGw1S3ZBMWdrSWlRNjI5M3RaTktpWTVEdVhmUEhn?oc=5",
-      "source": "뷰티 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T08:23:20+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "458f3a2f95314f9a3f28",
-      "title": "편집숍부터 현지맞춤 신제품 … K뷰티, 다시 중국 공략 속도 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhazh2NnhCZENXeUt3c2dORk5McVoxVkEzdEtjejdLOUpJVF9vRkxwRWdaZEVCQ1JuWmY3X1lTM20xS0o3d3c?oc=5",
-      "source": "뷰티 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T08:23:20+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "0095d30c446ca3e79e77",
-      "title": "무신사 뷰티, 인디부터 럭셔리까지 ‘첫 무대’ 자리매김 - 싱글리스트",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42ZGM1V2Vud1Z4WmpzSkFMMnpUZm14eU44dUlTZFdITkx0ZTduX1o5a2t6ZGdraVlfYTU0b0pUMlVjTkRRRjVpd2UyejNFR2JMd3Bzd0hncGxBUm9sRmpzNndFeGxvdw?oc=5",
-      "source": "뷰티 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T08:00:00+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "cafeabd9191e7913f6f4",
-      "title": "[유통 HOT 뉴스] \"생크림 더했더니 '인기'\"…빽다방, '시그니처 딥크림라떼' 출시 2주 만에 20만 잔 판매 - 비즈월드",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HdzctZzBOWi11bFhkTDF2R2RxN3V2TW8yUTFick9hS0VWTWgtdVFLVTh1OVRYNnBoYUtFYVlSTEZPMEpkc0RzVkFOZGRRTjFwWWtZbThURmFabVZ2RFdScEFjZmV2R3ZCakNJ?oc=5",
-      "source": "카페 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T06:22:00+00:00",
-      "category": "food"
-    },
-    {
-      "id": "3d67970f4e558b5dbccd",
-      "title": "[유통 HOT 뉴스] \"생크림 더했더니 '인기'\"…빽다방, '시그니처 딥크림라떼' 출시 2주 만에 20만 잔 판매 - 비즈월드",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWk9lQ05OSzdOVjBFYW1vOExmd0Q0eGthNHQtYloxMkZQZ0VGWlAyT19za0ZDTWU4czRNZ3huLWF0VnVKUHNSREkxOEh5eFdiUUc5ZDdGYkJNZDlnUXl2Tk80VUZ0MFdLTGc?oc=5",
-      "source": "카페 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T06:22:00+00:00",
-      "category": "food"
-    },
-    {
-      "id": "353a9df08dcb7d48907f",
-      "title": "“무릎수술비 120만 원에 치매약값까지”…어르신이라면 꼭 확인할 의료·돌봄 지원 4가지 - 한국공공정책신문",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBNc0xWSE5iYWppYzhpVVJocmloaFF3ZzBlWjMyaE9GTnF0RWpkaU9uUG9SZ2VjUHlYdWdlQVhiUlRQQTA?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-22T05:44:40+00:00",
-      "category": "life"
-    },
-    {
-      "id": "b56e393f7938944b866b",
-      "title": "“무릎수술비 120만 원에 치매약값까지”…어르신이라면 꼭 확인할 의료·돌봄 지원 4가지 - 유스연합",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wMXdyUDdpNklIeDEtNkFKRG93dXFPRWhHNk5DeWtkVk1hVlMxU1FSSnJXVGE5RHVvMmtROWpVNGhJTlNUcWFXRTM1YlNXNzgwTndz?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-22T05:43:54+00:00",
-      "category": "life"
-    },
-    {
-      "id": "54240fdded24dc9ffae0",
-      "title": "코레일관광네트웍스, 연말까지 수험생 기차여행상품 20% 할인 - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FRnJpRW5SNElBNXlnZC1DSDk2VVhKcE14c21hWlJQNEVBS0pSQi1ieWNHc2hCTkNjcEM0cnU2TjEwbGhiV0VMM0RnNW1HNHJpMXJPWGFpTFRqdw?oc=5",
-      "source": "여행 할인 뉴스 검색",
-      "publishedAt": "2026-11-22T05:20:35+00:00",
-      "category": "life"
-    },
-    {
-      "id": "cbcfeddabafc6ec8e473",
-      "title": "코레일관광네트웍스, 연말까지 수험생 기차여행상품 20% 할인 - 부산파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41OXdJZlpXNlMwaGdHam1TYnUxMUNuNko5a2FsVVBRVXBUSFdkRUpmYmM3WFdNMzNFWlZwSWszbmpJOUlRcHpVbXM3bnJERzNkcllfMVRqNTcxN1E?oc=5",
-      "source": "여행 할인 뉴스 검색",
-      "publishedAt": "2026-11-22T05:20:00+00:00",
-      "category": "life"
-    },
-    {
-      "id": "27fcb9ae118098fa9333",
-      "title": "[ 2026년 11월 21일(토) 프랜차이즈 뉴스 ] : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kSVBzWXh1OUZUc0ttc0Y4UTFySnZ1MDJCN2tVcng5VlhZN2c5b1U1cFYzNEg5bzFqX0dKamZUZXdPRnRSR3BMODZpblBhbVpSUjh1ZFFR?oc=5",
-      "source": "카페 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T05:06:36+00:00",
-      "category": "food"
-    },
-    {
-      "id": "3a33670a0b39c8a22b87",
-      "title": "마이녹셀, 입점 이후 올영블랙프라이데이 첫 참여 - 주간신문씨엠엔",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyYmtFbkM5RGtKc0dvZGhfeHdEUEx2bGhXeElPYnA3akEta2prTjZKc21QOWxVOXZVSlBOVmQyLXRMd1BMNWhjQmE1X0x3aUptdXhCS1F1VktGNXZFaUpBdE5fQ0N1aEVINVMw?oc=5",
-      "source": "올리브영 뉴스 검색",
-      "publishedAt": "2026-11-22T04:52:52+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "a49ce278dda2b4ea13fb",
-      "title": "[현장에서] 홍대서 맞붙은 두 개의 '핑크' | - 연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yVFdaNzFKeTlVZllWVlA1TmJRVVl0Qm9EUXk1QzRNWDZVeFlYRk1TRjVWeVc5T19CQ0dsSlhrVS1nZk8wekdYb1lsY1dUZU1VUG80bzk4ZklpWEtvQ2FKMzNBc0lZdHlQR181MC1Cd19mRmRC?oc=5",
-      "source": "올리브영 뉴스 검색",
-      "publishedAt": "2026-11-22T03:05:36+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "131224cadd4a1a6e3bb6",
-      "title": "매일유업·남양유업, 대리점 분야 공정거래협약 최우수 등급 - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cDc2MHk5S05fbFF2QWFRYzZOdkxKYTRZQTZyT2dFUFExZkZ2eXM1WW1kbUdVYUpJZEl3ZHJPMUFSdzh5NnE4WkZpaTVKdTdGNjNSVUdmTWQ3eDEwdTJaN9IBYEFVX3lxTE40cDc2MHk5S05fbFF2QWFRYzZOdkxKYTRZQTZyT2dFUFExZkZ2eXM1WW1kbUdVYUpJZEl3ZHJPMUFSdzh5NnE4WkZpaTVKdTdGNjNSVUdmTWQ3eDEwdTJaNw?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-22T03:00:06+00:00",
-      "category": "life"
-    },
-    {
-      "id": "61444f8f26184ccc25e8",
-      "title": "[현장에서] 홍대서 맞붙은 두 개의 '핑크' - KB Think",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qNFUwS1BwVEZPbThHZnpZNEFyZ281T19VUXFIR3dDRDNDcUwxblhFc1Vxd2RWN1RiREYxOHNsd1J1eU5ZazJrVUhZNU5Oa0F4R04yYm0xcy02SE16bEJ5ZEZuemFyS2loOW00YVBFekJyQQ?oc=5",
-      "source": "올리브영 뉴스 검색",
-      "publishedAt": "2026-11-22T03:00:02+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "4b74d3ef83dad8193243",
-      "title": "“달아서 나한테 미안해”…CU 박과장 텐션커피, 험난한 ‘가성비의 길’[신상 언박싱] - 서울경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NXFmOVZrTm8tSWhOakh2LUtENWpHZ1QxZmlNdVFPcHIzX253S2ZGenNOWXg2MnlsM1B6SlVDMGhYenE2WXQ0LUZNbGpYREUzSVHSAVNBVV95cUxQbzhwNkZYYUl3OXFsdjVwR2VIUmhidUNsby1jMzB5ekMwblVibjBuX21kSDhZQVp5TzZndWZTb2t2emhzVU5Xc2NCZnN5MWdSNmgyYw?oc=5",
-      "source": "편의점 신상품 뉴스 검색",
-      "publishedAt": "2026-11-22T03:00:00+00:00",
-      "category": "food"
-    },
-    {
-      "id": "d902d8e6f19cb07a3698",
-      "title": "수능 마친 수험생 위한 기차여행 할인…연말까지 20% 혜택 - 이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZFQzNFh1RXNaWE5YdHpyQTFLUFktVm1NM0tLLUQtVHY3YkNvcXItWWJjdTktcWpIQjhpLVRhVGM5YkxPSWxCajRDYmV0WnhVdXJxYVpqYjl4aGZEazBHbmJKWXVlU3NRM0Y3U2p1YmphVjdLMDBJV19iNm0zdVpobg?oc=5",
-      "source": "여행 할인 뉴스 검색",
-      "publishedAt": "2026-11-22T02:55:32+00:00",
-      "category": "life"
-    },
-    {
-      "id": "4c4eccfc5e09371b4400",
-      "title": "lh청년전세임대 신청 전 꼭 확인해야 할 핵심 자격과 지원 한도 - 블로그차트",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wSDJMTHdXYmMxMUlvUFpVaG14VTV1aXo0clpOMUxSLWxZZ2VXSWtINWxQWEt2RmEzazZTSUR4Q21CekUydDdEdkxLYnNXX2ZSWnRr?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-22T02:19:09+00:00",
-      "category": "life"
-    },
-    {
-      "id": "05cfee38f880b0afd55b",
-      "title": "NH농협금융, 농업인 이자부담 292억원 경감…판로·복지 지원 - 아시아투데이",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hb2tGcUxKRGpJbEpOTGU3SlNxS1ViTC15LUp6dE5wVDAtTUxrZ25ZQ0VuVURCT1J1TEtOOEk3NzhqUjFRcjFSWE15Q3RwUUtWZEdfTWRUQU9VSnVXWC0zdVZiWVNjR0Y0Z1BiYmlB?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-22T01:53:28+00:00",
-      "category": "life"
-    },
-    {
-      "id": "1b0f36215f85ca98b4a2",
-      "title": "농협금융, 농업인 이자부담 경감부터 판로 확대·생활밀착 지원까지…\"포용금융 확대\" - 글로벌경제신문",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CZzNEWm0xWVowNEJ1WHFwX3JGYnpUbGUwMHhaS0MxdUZPcDdOenJobzZ5STJZZy1fdW1yRWNDWDNzTVRZSHRIZjhJWkU3am5XMkJBTEtRazBGRlcxMF95Y1Zia1p6VzRmOWJCddIBcEFVX3lxTE9HWnI4U3djQU1mVFZLdXhPZzNudHhDeEtNWm5fRE9ja2YxekZGTnVRbVg4WDBGWWlDR0doOVJzM1ZkTWZRTEt2b1dNWW1VdFE3b09xMmFlNVZBemJ2U1h5RTM2b2pMeWNxZ0lOWHpNTzE?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-22T01:33:34+00:00",
-      "category": "life"
-    },
-    {
-      "id": "5b0c68f69323d0bbb116",
-      "title": "알럭스 패션 블랙프라이데이, 2500개 브랜드 상품 12월 1일까지 - https://www.diarypoint.com/",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByY0g3VnYxMU9Dd2xIenhXNEVsamhzcDhBemg0U1R0YTFMaGI0M19hSW1hU011Y2g5RjNybV9DX1Nrd2psRzVIZWQzbFo2c3ZUR2JPQ01pZjhKbnNFclBqOGZGSXJlYW50WGJz?oc=5",
-      "source": "패션 신상 뉴스 검색",
-      "publishedAt": "2026-11-22T01:20:24+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "06465b1b504cd35e6bc7",
-      "title": "[리테일 위클리] 유통가, 겨울 신제품 쏟아져…간편식부터 건강관리 제품까지 - 서울타임즈뉴스",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pMXZfNE41QnFwWl9MTU5oMDdaaXd2RkszeFh5a2h4MUctN01YS2NZNE9mV1JzQ0g0WURPemhiZjM3SkZHQnZ2UWh0VElINDctOEJNMHdNZE1aVnlYZUZhOThCN3lDMlY0WE9N?oc=5",
-      "source": "생활용품 신제품 뉴스 검색",
-      "publishedAt": "2026-11-22T01:00:00+00:00",
-      "category": "life"
-    },
-    {
-      "id": "a32fff52163e14beafaa",
-      "title": "수능 끝나자 햄버거 공짜에 최대 200만원 행운권…무신사·롯데리아·올리브영·현대백화점 할인 경쟁 - 세계일보",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JVzRMcm02a3V0SGV0Qmh6cVYwS2RmM3pJWVRJLUVKODVmMVRtcmpFWU9xRzhlVThRNGswam9JRkJUcU5UdjkyU0dJM2k0dE1JTEhOcFdWN2jSAVRBVV95cUxOY0VLcXBrSEhDeWRSWXgzdHJxWDh3ZVVIenNoNGF5U25ZTjJvZ1BOU0VpZVZpMnV0bEltYkMyeGZiQ01TX1lIYVJzUEV2OGx2cXNQTzI?oc=5",
-      "source": "올리브영 뉴스 검색",
-      "publishedAt": "2026-11-22T00:20:00+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "bee65b52c1d2dcd21eef",
-      "title": "수능 끝나자 햄버거 공짜에 최대 200만원 행운권…무신사·롯데리아·올리브영·현대백화점 할인 경쟁 - 세계일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85TTBFeFF2cVNjbG8zTWZrdzVsd1hjUXk4WFBad2Z5dWQ5VFZ4OUwxM1haMUJLVEZRZzctVWlIQTBscmZCTG9kUHRRSm1qaWV1?oc=5",
-      "source": "올리브영 뉴스 검색",
-      "publishedAt": "2026-11-22T00:20:00+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "ffee3eb0e8cbc14f3332",
-      "title": "단돈 7900원에 커피에 디저트까지ᆢ용인시, ‘보정동 카페거리 투어패스’ 출시 - 쿠키뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43QmZJdU1kN3hSamtmTHFxNFZabkJiUndCUkFyMW1nTnpkbTVIc2ZBUzNzVF9CcXFEOUN3eUYydHBTTDNxQ25aOVhoeWptVGF3MExJbVFuMVVsSi1jWGJ2VXlfVQ?oc=5",
-      "source": "디저트 출시 뉴스 검색",
-      "publishedAt": "2026-11-22T00:17:54+00:00",
-      "category": "food"
-    },
-    {
-      "id": "90bde8a3ee6c4e52e9a3",
-      "title": "NH농협금융, 농업인 이자 292억 경감⋯판로·생활 지원 확대 - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvTUxxanZJZGFlcTNjNGlwcW9TOVRyWF9fb1ZhYWVtX3ZUSFdBOFNSdUxHbDZCMVhaU2o5UlhtOUs3amd5ak9RQ0RQMGtOekhnNVl1QlFEUEtYU2FnT2VSVHdTd2ljUWN3eEdQYzdCTFVvZw?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-22T00:17:00+00:00",
-      "category": "life"
-    },
-    {
-      "id": "1e571101136e8b372725",
-      "title": "NH농협금융, 농업인 이자 292억 경감⋯판로·생활 지원 확대 - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBydFZFNk0wbFdSOGh4WjN3NlVacDF2b1BBR2d5Wmdab2pTSUY4MnJBa2VYc3dyVUx4Rm9xbTB0dUlvVWxXZk5NbTNUWDk2S3UwZjFzTkRCLU9CVGtmZEJ3XzlNdXNrWDRobVpoUl9MQ1BEY01J?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-22T00:17:00+00:00",
-      "category": "life"
-    },
-    {
-      "id": "2bcbe542be6b0fbc2a04",
-      "title": "“옷 파는 무신사가 버거를?” 신발상자 담긴 롯데리아 신상 정체[먹어보고서] - 이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1E3MVNMY1QtTGpETkIyWmZqeWtaLUpuYXhJVHhWMHFEVFFPY0RaUkIzMUx2ZGptQ0pOYWVtV1gzM3phdkY3V2ttUHBmY2t3bXdYTjVZcmJRZi05clA2cS0taXQ4bDRRMVhZcTZTMnFHcmk2b3pGWTlxaTJzTUd4dQ?oc=5",
-      "source": "패션 신상 뉴스 검색",
-      "publishedAt": "2026-11-21T23:59:09+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "a1720fd6e7d2ab7a5cb7",
-      "title": "“아직도 롱패딩 하나?”... 겨울 다운, 보온 넘어 취향 경쟁 [최기자의 패션 털기] - 시장경제신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkM2NWby1qYWM5akh1cllPd1psUXBWSi1kNnMxNzZtcXBBLWZ3aU84cGJiRlY2X3BfME10SWpsb1phSU00Q3YyQ3pGb01kbVlpb2ZmM3ZDMXR6R0gtVkxMa1VRQ01XSm1UTnFodk1Fa2g?oc=5",
-      "source": "패션 신상 뉴스 검색",
-      "publishedAt": "2026-11-21T23:48:00+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "b6adf535b425a050f4ef",
-      "title": "2026 APEC CEO 서밋, 선전에서 성황리 폐막",
-      "url": "https://www.traveltimes.co.kr/news/articleView.html?idxno=500785",
-      "source": "여행신문",
-      "publishedAt": "2026-11-21T23:39:00+00:00",
-      "category": "life"
-    },
-    {
-      "id": "81ef177f3a3584d19549",
-      "title": "패션 잡화, 기능 넘어 취향 저격 나섰다 [최기자의 패션 털기] - 시장경제신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2Wk5MSGhqcjc1eTVTZ09IenFtblQ2eUliY0tQRElwTjJ3eWhyeTB4bTVCc3RWNjlBRkZ0VjBWNXExNXFRd3Z2a290Z0l3MjZIR1JialhvWkZmR0NEMzY0SzFmOGJtT2EtekFOTmhRVlo?oc=5",
-      "source": "패션 신상 뉴스 검색",
-      "publishedAt": "2026-11-21T23:37:45+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "c69f0b9e8287d26f64b0",
-      "title": "여수시, 섬섬여수페이 소비지원 - 굿모닝투데이",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5reVNtU2UzQjZjMGZqODJrTV9FdDVfTllfM3F6dHJ5cFppSklLek1ZQXk5M29fRndxYUh6MUZWdWpXUmQwS3lMX1JxMWNCRTlJbDFfel9CaWRQYkxQU056ZDQ0OUVqUGhPSlE?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-21T22:54:00+00:00",
-      "category": "life"
-    },
-    {
-      "id": "948c68e05bcc8fe09333",
-      "title": "“수능 끝나자마자 여기로?”…고3 몰린 이유는? - 창원특례신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDRi01NmZDWXJveG44SkkxX25RME5XRjhzRzJ2aWxtLTAxajN1aHh3NWhIRWRYVFBIRFJfNGFVbmdHMFRsQ19SVGNONTMzcF9ySTdaVl8zbHhLemE3Tm9yM2htUG5QbFHSAWtBVV95cUxORnhJY0NUMUZFRXp4QzVxaTBBb0Z5MlFRQ243ZUF0bWRmN1lZbS1FQmU4eGtCVFVodmgyT1N5MXJhT0pRUE1aQ0h5Q1FvMmhKZE5NUEFwVjNWVFVSOGpBX183QTcwSjhCVFFzYw?oc=5",
-      "source": "생활 혜택 뉴스 검색",
-      "publishedAt": "2026-11-21T22:20:00+00:00",
-      "category": "life"
-    },
-    {
-      "id": "f5f9e4fcb1c834ca3b0e",
-      "title": "11월 다이소 화장품 신상 출시, 똑같은 5천원인데 실제 가성비가 달라지는 이유 : 네이버 블로그 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNm12OHB2OVpmM1JPRFVnR050SjRfNjI4YXVqSjBPbERtNUJtcU9UdFlmLTZGLVNUY0dDVjJFVjJPRllrZ3I3WUFUSnhVZGV3Uml6cmNpbnlNdnRyZzk2am5uSGVNdWpNTDlFX3MwcFB4NGUzdV9FTTZnY09ZaFU1cmNuNHFmMWFvRFFLZkpVelE?oc=5",
-      "source": "패션 신상 뉴스 검색",
-      "publishedAt": "2026-11-21T19:26:49+00:00",
-      "category": "beauty"
-    },
-    {
-      "id": "e5bc969f15831fc5fb88",
-      "title": "[주말판] 시드니에서 맞이하는 특별한 새해",
-      "url": "https://www.traveldaily.co.kr/news/articleView.html?idxno=72753",
-      "source": "트래블데일리",
-      "publishedAt": "2026-11-21T18:13:11+00:00",
-      "category": "life"
     }
   ],
   "feeds": [
@@ -2816,18 +2816,18 @@
     },
     {
       "id": "coffee-new",
-      "status": "error",
-      "error": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "items": 22
     },
     {
       "id": "convenience-new",
-      "status": "error",
-      "error": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "items": 11
     },
     {
       "id": "dessert-new",
-      "status": "error",
-      "error": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "items": 33
     },
     {
       "id": "jangup",
@@ -2841,23 +2841,23 @@
     },
     {
       "id": "beauty-new",
-      "status": "error",
-      "error": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "items": 26
     },
     {
       "id": "fashion-new",
-      "status": "error",
-      "error": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "items": 18
     },
     {
       "id": "oliveyoung",
-      "status": "error",
-      "error": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "items": 28
     },
     {
       "id": "travel-times",
       "status": "ok",
-      "items": 49
+      "items": 48
     },
     {
       "id": "travel-daily",
@@ -2866,18 +2866,18 @@
     },
     {
       "id": "travel-sale",
-      "status": "error",
-      "error": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "items": 71
     },
     {
       "id": "living-new",
-      "status": "error",
-      "error": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "items": 19
     },
     {
       "id": "discount-new",
-      "status": "error",
-      "error": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "items": 28
     }
   ]
 }
